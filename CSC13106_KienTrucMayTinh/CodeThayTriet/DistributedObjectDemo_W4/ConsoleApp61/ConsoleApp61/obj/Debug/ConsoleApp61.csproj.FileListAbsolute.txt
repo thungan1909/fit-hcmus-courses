@@ -1,0 +1,6 @@
+C:\Users\tmtri\source\repos\ConsoleApp61\ConsoleApp61\obj\Debug\ConsoleApp61.csprojAssemblyReference.cache
+C:\Users\tmtri\source\repos\ConsoleApp61\ConsoleApp61\bin\Debug\ConsoleApp61.exe.config
+C:\Users\tmtri\source\repos\ConsoleApp61\ConsoleApp61\bin\Debug\ConsoleApp61.exe
+C:\Users\tmtri\source\repos\ConsoleApp61\ConsoleApp61\bin\Debug\ConsoleApp61.pdb
+C:\Users\tmtri\source\repos\ConsoleApp61\ConsoleApp61\obj\Debug\ConsoleApp61.exe
+C:\Users\tmtri\source\repos\ConsoleApp61\ConsoleApp61\obj\Debug\ConsoleApp61.pdb

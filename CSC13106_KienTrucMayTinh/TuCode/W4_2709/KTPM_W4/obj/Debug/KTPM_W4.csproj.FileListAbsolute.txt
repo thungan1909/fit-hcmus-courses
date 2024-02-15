@@ -1,0 +1,7 @@
+C:\Users\Ngan\source\repos\KTPM_W4\KTPM_W4\obj\Debug\KTPM_W4.csproj.AssemblyReference.cache
+C:\Users\Ngan\source\repos\KTPM_W4\KTPM_W4\obj\Debug\KTPM_W4.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\source\repos\KTPM_W4\KTPM_W4\bin\Debug\KTPM_W4.exe.config
+C:\Users\Ngan\source\repos\KTPM_W4\KTPM_W4\bin\Debug\KTPM_W4.exe
+C:\Users\Ngan\source\repos\KTPM_W4\KTPM_W4\bin\Debug\KTPM_W4.pdb
+C:\Users\Ngan\source\repos\KTPM_W4\KTPM_W4\obj\Debug\KTPM_W4.exe
+C:\Users\Ngan\source\repos\KTPM_W4\KTPM_W4\obj\Debug\KTPM_W4.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\CSC13106_KTPM\TuCode\W6_1110\W6_1110\obj\Debug\W6_1110.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CSC13106_KTPM\TuCode\W6_1110\W6_1110\obj\Debug\W6_1110.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\CSC13106_KTPM\TuCode\W6_1110\W6_1110\obj\Debug\W6_1110.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSC13106_KTPM\TuCode\W6_1110\W6_1110\bin\Debug\W6_1110.exe.config
+C:\Users\Admin\source\repos\CSC13106_KTPM\TuCode\W6_1110\W6_1110\bin\Debug\W6_1110.exe
+C:\Users\Admin\source\repos\CSC13106_KTPM\TuCode\W6_1110\W6_1110\bin\Debug\W6_1110.pdb
+C:\Users\Admin\source\repos\CSC13106_KTPM\TuCode\W6_1110\W6_1110\obj\Debug\W6_1110.exe
+C:\Users\Admin\source\repos\CSC13106_KTPM\TuCode\W6_1110\W6_1110\obj\Debug\W6_1110.pdb

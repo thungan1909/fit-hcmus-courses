@@ -1,0 +1,7 @@
+C:\Users\Ngan\source\repos\KTPM\KTPM_W2\KTPM_W2\obj\Debug\KTPM_W2.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\source\repos\KTPM\KTPM_W2\KTPM_W2\bin\Debug\KTPM_W2.exe.config
+C:\Users\Ngan\source\repos\KTPM\KTPM_W2\KTPM_W2\bin\Debug\KTPM_W2.exe
+C:\Users\Ngan\source\repos\KTPM\KTPM_W2\KTPM_W2\bin\Debug\KTPM_W2.pdb
+C:\Users\Ngan\source\repos\KTPM\KTPM_W2\KTPM_W2\obj\Debug\KTPM_W2.exe
+C:\Users\Ngan\source\repos\KTPM\KTPM_W2\KTPM_W2\obj\Debug\KTPM_W2.pdb
+C:\Users\Ngan\source\repos\KTPM\KTPM_W2\KTPM_W2\obj\Debug\KTPM_W2.csproj.AssemblyReference.cache

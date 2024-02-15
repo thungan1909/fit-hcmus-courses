@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KTPM_W4.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KTPM_W4.SObject">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAABAAAAAAAAAAAAIAAAACAAAAAAE=</HashCode>
+      <FileName>SObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KTPM_W4.SObjectManager">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAIAAAAgAAABAAAAAAAQAAAAAAEAAAAAAAAAE=</HashCode>
+      <FileName>SObjectManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KTPM_W4.SFraction">
+    <Position X="3" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAgAAAAAgAAEBAAAAAAAAQAQAAAAAAAACAAAAE=</HashCode>
+      <FileName>SFraction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KTPM_W4.CObject">
+    <Position X="8" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAACAAAAAAE=</HashCode>
+      <FileName>CObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KTPM_W4.CObjectManager">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CObjectManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KTPM_W4.CPhanSo">
+    <Position X="9" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>CPhanSo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
