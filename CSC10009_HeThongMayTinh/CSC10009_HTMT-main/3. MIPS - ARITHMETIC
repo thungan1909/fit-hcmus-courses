@@ -1,0 +1,92 @@
+.data
+str1: .asciiz "Nhap so 1: "
+str2: .asciiz "Nhap so 2: "
+strXuongHang: .asciiz "\n"
+strACongB: .asciiz "A+B= "
+strATruB: .asciiz "A-B= "
+strANhanB: .asciiz "A*B= "
+strAChiaHetB: .asciiz "A/B= "
+strAChiaLayDuB: .asciiz "A%B= "
+.text
+.globl main
+main:
+la $a0,str1		#Goi ra str1
+addi $v0,$0,4		#in ra chuoi (4)
+syscall 
+
+addi $v0,$0,5		#Gọi hàm nhập (5)
+syscall
+add $s0,$0,$v0		#Nhập giá trị dau tiên vào s0
+
+la $a0, str2		#Goi ra str2
+addi $v0,$0,4		
+syscall 
+
+addi $v0,$0,5
+syscall
+add $s1,$0,$v0		#Nhap giá tri thu 2 vào s1
+
+#Phép +
+la $a0, strACongB
+addi $v0,$0,4
+syscall
+add $s2,$s0,$s1		#add: s2=s0+s1 (không phai cong hang so nên là add)
+add $a0, $0, $s2	#Gán s2 vào 
+addi $v0,$0,1		#In ra s2, 1 là kieu int
+syscall
+
+#Xuong dòng
+la $a0, strXuongHang
+addi $v0,$0,4
+syscall 
+
+#Phép Tru
+la $a0, strATruB
+addi $v0,$0,4
+syscall
+sub $s2,$s0,$s1
+add $a0, $0, $s2
+addi $v0,$0,1
+syscall
+
+#Xuong dòng
+la $a0, strXuongHang
+addi $v0,$0,4
+syscall 
+
+# Phép Nhan
+la $a0, strANhanB
+addi $v0,$0,4
+syscall
+mul $s2, $s0, $s1
+add $a0, $0, $s2
+addi $v0, $0, 1
+syscall
+
+#Xuong dòng
+la $a0, strXuongHang
+addi $v0,$0,4
+syscall 
+
+# Phép Chia Het				#Het mflo, Du mlhi
+la $a0, strAChiaHetB
+addi $v0,$0,4
+syscall
+div $s2, $s0, $s1
+mflo $a0
+addi $v0, $0, 1
+syscall
+
+#Xuong dòng
+la $a0, strXuongHang
+addi $v0,$0,4
+syscall 
+
+# Phép Chia Lay Du
+la $a0, strAChiaLayDuB
+addi $v0,$0,4
+syscall
+div $s2, $s0, $s1
+mfhi $a0
+addi $v0, $0, 1
+syscall
