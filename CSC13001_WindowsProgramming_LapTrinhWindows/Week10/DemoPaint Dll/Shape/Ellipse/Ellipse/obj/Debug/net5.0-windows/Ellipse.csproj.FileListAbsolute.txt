@@ -1,0 +1,14 @@
+C:\Users\Ngan\source\repos\Ellipse\Ellipse\bin\Debug\net5.0-windows\Ellipse.deps.json
+C:\Users\Ngan\source\repos\Ellipse\Ellipse\bin\Debug\net5.0-windows\Ellipse.dll
+C:\Users\Ngan\source\repos\Ellipse\Ellipse\bin\Debug\net5.0-windows\ref\Ellipse.dll
+C:\Users\Ngan\source\repos\Ellipse\Ellipse\bin\Debug\net5.0-windows\Ellipse.pdb
+C:\Users\Ngan\source\repos\Ellipse\Ellipse\bin\Debug\net5.0-windows\Contract.dll
+C:\Users\Ngan\source\repos\Ellipse\Ellipse\bin\Debug\net5.0-windows\Contract.pdb
+C:\Users\Ngan\source\repos\Ellipse\Ellipse\obj\Debug\net5.0-windows\Ellipse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngan\source\repos\Ellipse\Ellipse\obj\Debug\net5.0-windows\Ellipse.AssemblyInfoInputs.cache
+C:\Users\Ngan\source\repos\Ellipse\Ellipse\obj\Debug\net5.0-windows\Ellipse.AssemblyInfo.cs
+C:\Users\Ngan\source\repos\Ellipse\Ellipse\obj\Debug\net5.0-windows\Ellipse.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\source\repos\Ellipse\Ellipse\obj\Debug\net5.0-windows\Ellipse.csproj.CopyComplete
+C:\Users\Ngan\source\repos\Ellipse\Ellipse\obj\Debug\net5.0-windows\Ellipse.dll
+C:\Users\Ngan\source\repos\Ellipse\Ellipse\obj\Debug\net5.0-windows\ref\Ellipse.dll
+C:\Users\Ngan\source\repos\Ellipse\Ellipse\obj\Debug\net5.0-windows\Ellipse.pdb

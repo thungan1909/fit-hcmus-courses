@@ -1,0 +1,135 @@
+﻿<Fluent:RibbonWindow x:Class="LTW_W4_05102021.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LTW_W4_05102021"
+        xmlns:Fluent="clr-namespace:Fluent;assembly=Fluent"
+        mc:Ignorable="d"
+ Title="MainWindow" Height="450" Width="800" Loaded="RibbonWindow_Loaded">
+    <Window.Resources>
+        <local:RelativeToAbsoluteConverter x:Key="AbsoluteConverter"/>
+        <local:SingleToSummaryConverter x:Key="summaryConverter"/>
+    </Window.Resources>
+    <StackPanel>
+        <Fluent:Ribbon>
+            <Fluent:Ribbon.Menu>
+                <Fluent:Backstage Header="File">
+                    <Fluent:BackstageTabControl>
+                        <Fluent:BackstageTabItem Header="New">
+                            <StackPanel>
+                                <Button Content="New File" Width="80" Height="35"></Button>
+
+                            </StackPanel>
+
+                        </Fluent:BackstageTabItem>
+                        <Fluent:BackstageTabItem Header="Exit">
+                            <Button Content="Exit without saving" Width="80" Height="35"></Button>
+                        </Fluent:BackstageTabItem>
+                    </Fluent:BackstageTabControl>
+                </Fluent:Backstage>
+            </Fluent:Ribbon.Menu>
+            <Fluent:RibbonTabItem Header="Home">
+                <Fluent:RibbonGroupBox Header="Clipboard">
+
+                    <Fluent:Button Header="Cut"  Icon="/RibbonImages/02.jpg" Click="CutButton_Click">
+                        <Fluent:Button.LargeIcon>
+                            <Image Source="RibbonImages/02.jpg" RenderOptions.BitmapScalingMode="HighQuality"></Image>
+                        </Fluent:Button.LargeIcon>
+                    </Fluent:Button>
+                    <Fluent:Button Header="Paste"  Icon="/RibbonImages/03.jpg">
+                        <Fluent:Button.LargeIcon>
+                            <Image Source="RibbonImages/03.jpg" RenderOptions.BitmapScalingMode="HighQuality"></Image>
+                        </Fluent:Button.LargeIcon>
+                    </Fluent:Button>
+                </Fluent:RibbonGroupBox>
+            </Fluent:RibbonTabItem>
+            <Fluent:RibbonTabItem Header="View">
+            </Fluent:RibbonTabItem>
+        </Fluent:Ribbon>
+        <Canvas>
+            <ListView Name="studentList" 
+                  Width="250" Height="254"
+                  Canvas.Left="491" Canvas.Top="41" 
+                  RenderTransformOrigin="0.476,-1.233"
+                  ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                  >
+                <ListView.Resources>
+                    <ContextMenu x:Key="StudentContext">
+                        <MenuItem Header="Delete" Click="deleteMenuItem_Click"/>
+                        <MenuItem Header="Update" Click="updateMenuItem_Click"/>
+                    </ContextMenu>
+                </ListView.Resources>
+                <ListView.ItemContainerStyle>
+                    <Style TargetType="{x:Type ListViewItem}">
+                        <Setter Property="ContextMenu" Value="{StaticResource StudentContext}"/>
+                    </Style>
+                </ListView.ItemContainerStyle>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Width="100" Height="100">
+                            <Image Margin="0,0,5,0" 
+                               Source="{Binding Avatar,Converter={StaticResource AbsoluteConverter}}"
+                               Width="70" Height="70"
+                            RenderOptions.BitmapScalingMode="HighQuality">
+                            </Image>
+                            <TextBlock Foreground="Yellow">
+                          <Run Text="{Binding ID}" Foreground="Red"
+                               FontWeight="Bold" FontFamily="Tahoma"></Run>   
+                            -
+                            <Run Text="{Binding Name}" Foreground="Blue" FontWeight="Bold"></Run>
+                            </TextBlock>
+
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+                <ListView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel></WrapPanel>
+                    </ItemsPanelTemplate>
+                </ListView.ItemsPanel>
+            </ListView>
+            <StackPanel Canvas.Left="100" Canvas.Top="100" Name="sv1StackPanel">
+                <TextBlock Text="{Binding ID}" Width="150" Height="30" RenderTransformOrigin="1.34,2.2" Canvas.Left="229" Canvas.Top="85"/>
+                <TextBlock Text="{Binding Name}" Width="150" Height="30" Canvas.Left="190" Canvas.Top="208"/>
+                <TextBlock Text="{Binding Credits}" Width="150" Height="30" Canvas.Left="194" Canvas.Top="153"/>
+                <Image Source="{Binding Avatar,Converter={StaticResource AbsoluteConverter}}" Width="100" Height="80"></Image>
+                <TextBlock>
+                    <TextBlock.Text>
+                        <MultiBinding Converter="{StaticResource summaryConverter}">
+                            <Binding Path="ID"/>
+                            <Binding Path="Credits"/>
+                            <Binding Path="MaxCredits"/>
+                        </MultiBinding>
+                    </TextBlock.Text>
+                </TextBlock>
+            </StackPanel>
+
+            <StackPanel Canvas.Left="300" Canvas.Top="100" Name="sv2StackPanel">
+                <TextBlock Text="{Binding ID}" Width="150" Height="30" RenderTransformOrigin="1.34,2.2" Canvas.Left="229" Canvas.Top="85"/>
+                <TextBlock Text="{Binding Name}" Width="150" Height="30" Canvas.Left="190" Canvas.Top="208"/>
+                <TextBlock Text="{Binding Credits}" Width="150" Height="30" Canvas.Left="194" Canvas.Top="153"/>
+                <Image Source="{Binding Avatar,Converter={StaticResource AbsoluteConverter}}" Width="100" Height="80"></Image>
+                <TextBlock>
+                    <TextBlock.Text>
+                        <MultiBinding Converter="{StaticResource summaryConverter}">
+                            <Binding Path="ID"/>
+                            <Binding Path="Credits"/>
+                            <Binding Path="MaxCredits"/>
+                        </MultiBinding>
+                    </TextBlock.Text>
+                </TextBlock>
+            </StackPanel>
+
+            <Button Name="addButton" Width="80" Height="35" Content="Add" RenderTransformOrigin="2.01,7.983" 
+                Canvas.Left="40" Canvas.Top="8"
+                Click="addButton_Click"/>
+
+            <Button Name="deleteButton" Width="80" Height="35" Content="Delete"
+                Click="deleteButton_Click" RenderTransformOrigin="5.794,6.05" Canvas.Left="145" Canvas.Top="6"/>
+
+            <Button Name="updateButton" Width="80" Height="35" Content="Update"
+                Click="updateButton_Click" RenderTransformOrigin="5.794,6.05" Canvas.Left="261" Canvas.Top="9"/>
+        </Canvas>
+    </StackPanel>
+</Fluent:RibbonWindow>

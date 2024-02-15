@@ -1,0 +1,169 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Circle2D/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Circle2D.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Circle2D.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contract.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Line2D/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Line2D.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Line2D.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Square2D/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Square2D.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Square2D.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Circle2D/1.0.0": {
+      "type": "project",
+      "path": "../Circle2D/Circle2D.csproj",
+      "msbuildProject": "../Circle2D/Circle2D.csproj"
+    },
+    "Contract/1.0.0": {
+      "type": "project",
+      "path": "../Contract/Contract.csproj",
+      "msbuildProject": "../Contract/Contract.csproj"
+    },
+    "Line2D/1.0.0": {
+      "type": "project",
+      "path": "../Line2D/Line2D.csproj",
+      "msbuildProject": "../Line2D/Line2D.csproj"
+    },
+    "Square2D/1.0.0": {
+      "type": "project",
+      "path": "../Square2D/Square2D.csproj",
+      "msbuildProject": "../Square2D/Square2D.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "Circle2D >= 1.0.0",
+      "Contract >= 1.0.0",
+      "Line2D >= 1.0.0",
+      "Square2D >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ngan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\DemoPaint\\DemoPaint.csproj",
+      "projectName": "DemoPaint",
+      "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\DemoPaint\\DemoPaint.csproj",
+      "packagesPath": "C:\\Users\\Ngan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\DemoPaint\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ngan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Circle2D\\Circle2D.csproj": {
+              "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Circle2D\\Circle2D.csproj"
+            },
+            "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Contract\\Contract.csproj": {
+              "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Contract\\Contract.csproj"
+            },
+            "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Line2D\\Line2D.csproj": {
+              "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Line2D\\Line2D.csproj"
+            },
+            "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Square2D\\Square2D.csproj": {
+              "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Square2D\\Square2D.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

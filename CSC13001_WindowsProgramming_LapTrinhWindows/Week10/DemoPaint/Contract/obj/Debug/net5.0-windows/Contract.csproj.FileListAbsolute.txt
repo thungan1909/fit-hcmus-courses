@@ -1,0 +1,11 @@
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Contract\bin\Debug\net5.0-windows\Contract.deps.json
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Contract\bin\Debug\net5.0-windows\Contract.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Contract\bin\Debug\net5.0-windows\ref\Contract.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Contract\bin\Debug\net5.0-windows\Contract.pdb
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Contract\obj\Debug\net5.0-windows\Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Contract\obj\Debug\net5.0-windows\Contract.AssemblyInfoInputs.cache
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Contract\obj\Debug\net5.0-windows\Contract.AssemblyInfo.cs
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Contract\obj\Debug\net5.0-windows\Contract.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Contract\obj\Debug\net5.0-windows\Contract.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Contract\obj\Debug\net5.0-windows\ref\Contract.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Contract\obj\Debug\net5.0-windows\Contract.pdb

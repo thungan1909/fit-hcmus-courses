@@ -1,0 +1,53 @@
+/*Project viết bằng onlinegdb không cần đặt tên project.
+Viết chương trình hoàn chỉnh thực hiện lần lượt các yêu cầu sau:
+1. Phát sinh ngẫu nhiên 10 số nguyên trong đoạn từ [15, 80] .
+2. Cho biết có bao nhiêu số nguyên tố?
+3. Cho biết có bao nhiêu số chính phương?
+Làm bài bằng onlinegdb.com, bấm nút Share để lấy link share project, dán link vào file text MSSV.txt để nộp moodle.
+Yêu cầu: Có hàm kiểm tra số nguyên tố riêng, có hàm kiểm tra số chính phương riêng.*/
+
+using System;
+class HelloWorld {
+  static void Main() 
+  {
+      Random r = new Random();
+      int count=0;
+      int count1=0;
+       Console.WriteLine("So ngau nhien trong doan [15,80] la");
+             for (int i = 0; i < 10; i++)
+            {
+                
+                int randomNumber = r.Next(15,80);
+               
+                Console.WriteLine("So thu {0}: {1}",i+1,randomNumber);
+                if(SoNguyenTo(randomNumber)) 
+                {
+                    count=count+1;
+                }
+                 if(SoChinhPhuong(randomNumber)) 
+                {
+                    count1=count1+1;
+                }
+            }
+            Console.WriteLine("So luong so nguyen to trong doan tren la: {0}",count);
+            Console.WriteLine("So luong so chinh phuong trong doan tren la: {0}",count1);
+  }
+  
+  static bool SoNguyenTo(int n)
+  {
+    if (n < 2)
+        return false;
+    for (int i = 2; i < n; i++)
+        if (n % i == 0)
+            return false;
+  
+    return true;
+  }
+  static bool SoChinhPhuong(int n)
+  {
+            double sqrt = (int) Math.Sqrt(n);
+
+            if(sqrt * sqrt == n){ return true;}
+            else {return false; }  
+  }
+}

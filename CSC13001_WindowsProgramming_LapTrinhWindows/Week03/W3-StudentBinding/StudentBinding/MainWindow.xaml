@@ -1,0 +1,26 @@
+﻿<Window x:Class="StudentBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentBinding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Canvas>
+        <Label Content="MSSV" Height="30" Width="87" Canvas.Left="59" Canvas.Top="80" FontSize="19" RenderTransformOrigin="0.487,3.437"></Label>
+        <TextBox x:Name="MSSV" Text="{Binding MSSV}" Width="467" Height="35" Canvas.Left="164" Canvas.Top="68" RenderTransformOrigin="0.173,-3.161"></TextBox>
+
+        <Label Content="HoTen" Height="35" Width="87" Canvas.Left="57" Canvas.Top="145" FontSize="19"></Label>
+        <TextBox x:Name="HoTen" Text="{Binding HoTen}" Width="467" Height="35" Canvas.Left="167" Canvas.Top="143" RenderTransformOrigin="0.173,-3.161"></TextBox>
+
+        <Label Content="DiaChi" Height="36" Width="93" Canvas.Left="59" Canvas.Top="221" FontSize="19" RenderTransformOrigin="0.639,7.458"></Label>
+        <TextBox x:Name="DiaChi" Text="{Binding DiaChi}" Width="467" Height="35" Canvas.Left="172" Canvas.Top="217" RenderTransformOrigin="0.173,-3.161"></TextBox>
+
+        <Label Content="Email" Height="30" Width="80" Canvas.Left="66" Canvas.Top="292" FontSize="19"></Label>
+        <TextBox x:Name="Email" Text="{Binding Email}" Width="467" Height="35" Canvas.Left="172" Canvas.Top="291" RenderTransformOrigin="0.173,-3.161"></TextBox>
+
+        <Label Content="SDT" Height="30" Width="78" Canvas.Left="69" Canvas.Top="362" FontSize="19"></Label>
+        <TextBox x:Name="SDT" Text="{Binding SDT}" Width="467" Height="35" Canvas.Left="172" Canvas.Top="360" RenderTransformOrigin="0.173,-3.161"></TextBox>
+
+    </Canvas>
+</Window>

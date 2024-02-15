@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Demo01/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "SuperCarLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Demo01.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demo01.dll": {}
+        }
+      },
+      "SuperCarLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/SuperCarLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SuperCarLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo01/1.0.0": {
+      "type": "project",
+      "path": "../Demo01/Demo01.csproj",
+      "msbuildProject": "../Demo01/Demo01.csproj"
+    },
+    "SuperCarLib/1.0.0": {
+      "type": "project",
+      "path": "../SuperCarLib/SuperCarLib.csproj",
+      "msbuildProject": "../SuperCarLib/SuperCarLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Demo01 >= 1.0.0",
+      "SuperCarLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ngan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week09\\Demo\\Demo01\\FlyingCar\\FlyingCar.csproj",
+      "projectName": "FlyingCar",
+      "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week09\\Demo\\Demo01\\FlyingCar\\FlyingCar.csproj",
+      "packagesPath": "C:\\Users\\Ngan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week09\\Demo\\Demo01\\FlyingCar\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ngan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week09\\Demo\\Demo01\\Demo01\\Demo01.csproj": {
+              "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week09\\Demo\\Demo01\\Demo01\\Demo01.csproj"
+            },
+            "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week09\\Demo\\Demo01\\SuperCarLib\\SuperCarLib.csproj": {
+              "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week09\\Demo\\Demo01\\SuperCarLib\\SuperCarLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

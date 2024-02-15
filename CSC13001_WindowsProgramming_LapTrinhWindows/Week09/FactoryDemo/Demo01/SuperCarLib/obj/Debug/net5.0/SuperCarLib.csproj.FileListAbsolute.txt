@@ -1,0 +1,12 @@
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\SuperCarLib\bin\Debug\net5.0\SuperCarLib.deps.json
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\SuperCarLib\bin\Debug\net5.0\SuperCarLib.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\SuperCarLib\bin\Debug\net5.0\ref\SuperCarLib.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\SuperCarLib\bin\Debug\net5.0\SuperCarLib.pdb
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\SuperCarLib\obj\Debug\net5.0\SuperCarLib.csproj.AssemblyReference.cache
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\SuperCarLib\obj\Debug\net5.0\SuperCarLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\SuperCarLib\obj\Debug\net5.0\SuperCarLib.AssemblyInfoInputs.cache
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\SuperCarLib\obj\Debug\net5.0\SuperCarLib.AssemblyInfo.cs
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\SuperCarLib\obj\Debug\net5.0\SuperCarLib.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\SuperCarLib\obj\Debug\net5.0\SuperCarLib.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\SuperCarLib\obj\Debug\net5.0\ref\SuperCarLib.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\SuperCarLib\obj\Debug\net5.0\SuperCarLib.pdb

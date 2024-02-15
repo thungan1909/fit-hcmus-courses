@@ -1,0 +1,15 @@
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\Carbriolet\bin\Debug\net5.0\Carbriolet.deps.json
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\Carbriolet\bin\Debug\net5.0\Carbriolet.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\Carbriolet\bin\Debug\net5.0\ref\Carbriolet.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\Carbriolet\bin\Debug\net5.0\Carbriolet.pdb
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\Carbriolet\bin\Debug\net5.0\SuperCarLib.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\Carbriolet\bin\Debug\net5.0\SuperCarLib.pdb
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\Carbriolet\obj\Debug\net5.0\Carbriolet.csproj.AssemblyReference.cache
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\Carbriolet\obj\Debug\net5.0\Carbriolet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\Carbriolet\obj\Debug\net5.0\Carbriolet.AssemblyInfoInputs.cache
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\Carbriolet\obj\Debug\net5.0\Carbriolet.AssemblyInfo.cs
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\Carbriolet\obj\Debug\net5.0\Carbriolet.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\Carbriolet\obj\Debug\net5.0\Carbriolet.csproj.CopyComplete
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\Carbriolet\obj\Debug\net5.0\Carbriolet.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\Carbriolet\obj\Debug\net5.0\ref\Carbriolet.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\Carbriolet\obj\Debug\net5.0\Carbriolet.pdb

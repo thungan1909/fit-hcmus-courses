@@ -1,0 +1,14 @@
+C:\Users\Ngan\source\repos\Circle\Circle\bin\Debug\net5.0-windows\Circle.deps.json
+C:\Users\Ngan\source\repos\Circle\Circle\bin\Debug\net5.0-windows\Circle.dll
+C:\Users\Ngan\source\repos\Circle\Circle\bin\Debug\net5.0-windows\ref\Circle.dll
+C:\Users\Ngan\source\repos\Circle\Circle\bin\Debug\net5.0-windows\Circle.pdb
+C:\Users\Ngan\source\repos\Circle\Circle\bin\Debug\net5.0-windows\Contract.dll
+C:\Users\Ngan\source\repos\Circle\Circle\bin\Debug\net5.0-windows\Contract.pdb
+C:\Users\Ngan\source\repos\Circle\Circle\obj\Debug\net5.0-windows\Circle.csproj.AssemblyReference.cache
+C:\Users\Ngan\source\repos\Circle\Circle\obj\Debug\net5.0-windows\Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngan\source\repos\Circle\Circle\obj\Debug\net5.0-windows\Circle.AssemblyInfoInputs.cache
+C:\Users\Ngan\source\repos\Circle\Circle\obj\Debug\net5.0-windows\Circle.AssemblyInfo.cs
+C:\Users\Ngan\source\repos\Circle\Circle\obj\Debug\net5.0-windows\Circle.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\source\repos\Circle\Circle\obj\Debug\net5.0-windows\Circle.dll
+C:\Users\Ngan\source\repos\Circle\Circle\obj\Debug\net5.0-windows\ref\Circle.dll
+C:\Users\Ngan\source\repos\Circle\Circle\obj\Debug\net5.0-windows\Circle.pdb

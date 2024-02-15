@@ -1,0 +1,15 @@
+C:\Users\Ngan\source\repos\Square\Square\bin\Debug\net5.0-windows\Square.deps.json
+C:\Users\Ngan\source\repos\Square\Square\bin\Debug\net5.0-windows\Square.dll
+C:\Users\Ngan\source\repos\Square\Square\bin\Debug\net5.0-windows\ref\Square.dll
+C:\Users\Ngan\source\repos\Square\Square\bin\Debug\net5.0-windows\Square.pdb
+C:\Users\Ngan\source\repos\Square\Square\bin\Debug\net5.0-windows\Contract.dll
+C:\Users\Ngan\source\repos\Square\Square\bin\Debug\net5.0-windows\Contract.pdb
+C:\Users\Ngan\source\repos\Square\Square\obj\Debug\net5.0-windows\Square.csproj.AssemblyReference.cache
+C:\Users\Ngan\source\repos\Square\Square\obj\Debug\net5.0-windows\Square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngan\source\repos\Square\Square\obj\Debug\net5.0-windows\Square.AssemblyInfoInputs.cache
+C:\Users\Ngan\source\repos\Square\Square\obj\Debug\net5.0-windows\Square.AssemblyInfo.cs
+C:\Users\Ngan\source\repos\Square\Square\obj\Debug\net5.0-windows\Square.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\source\repos\Square\Square\obj\Debug\net5.0-windows\Square.csproj.CopyComplete
+C:\Users\Ngan\source\repos\Square\Square\obj\Debug\net5.0-windows\Square.dll
+C:\Users\Ngan\source\repos\Square\Square\obj\Debug\net5.0-windows\ref\Square.dll
+C:\Users\Ngan\source\repos\Square\Square\obj\Debug\net5.0-windows\Square.pdb

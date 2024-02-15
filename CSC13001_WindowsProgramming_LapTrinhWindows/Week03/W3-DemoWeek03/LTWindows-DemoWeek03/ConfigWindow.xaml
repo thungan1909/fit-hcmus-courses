@@ -1,0 +1,40 @@
+﻿<Window x:Class="LTWindows_DemoWeek03.ConfigWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LTWindows_DemoWeek03"
+        mc:Ignorable="d"
+        Title="ConfigWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Window.Resources>
+        <local:CreditsToPercentageConverter x:Key="percentConverter" Max="138" ></local:CreditsToPercentageConverter>
+        <local:RelativeToAbsoluteConveter x:Key="absoluteConverter"></local:RelativeToAbsoluteConveter>
+
+    </Window.Resources>
+    <Canvas>
+        <Image Source="{Binding Avatar, Converter={StaticResource absoluteConverter}}" Width="100" Height="100" Canvas.Left="542" Canvas.Top="20"/>
+        <Label Target="{Binding ElementName=usernameTextBox}" Content="_username" RenderTransformOrigin="1.981,2.602" Height="29" Width="403" Canvas.Left="174" Canvas.Top="102"></Label>
+        <TextBox x:Name="usernameTextBox" Text="{Binding fullName}" Width="467" Height="35" Canvas.Left="176" Canvas.Top="155"></TextBox>
+
+        <Label Target="{Binding ElementName=PasswordBox}" Content="_password" RenderTransformOrigin="1.981,2.602" Height="29" Width="403" Canvas.Left="166" Canvas.Top="200"></Label>
+        <PasswordBox Name="PasswordBox" Width="467" Height="35" Canvas.Left="170" Canvas.Top="240" ></PasswordBox>
+
+        <Button x:Name="okButton" IsDefault="True" Width="80" Height="35"
+                Content="OK" Canvas.Left="198" Canvas.Top="330" Click="okButton_Click"></Button>
+        <Button x:Name="cancelButton" IsCancel="True" Width="80" Height="35" Content="Cancel" Canvas.Left="479" Canvas.Top="328" RenderTransformOrigin="0.53,3.382"></Button>
+        <ProgressBar x:Name="progress" 
+                     Minimum="0"
+                     Maximum="100"
+                     Value="90"
+                     IsIndeterminate="False"
+                     Width="261" Height="8" Canvas.Left="86" Canvas.Top="63"/>
+
+        <Slider x:Name="slider" ValueChanged="slider_ValueChanged"
+                     Minimum="0"
+                     Maximum="100"
+                     Value="90"
+                     Width="261" Height="29" Canvas.Left="76" Canvas.Top="27"/>
+
+        <Label Content="{Binding Credits,Converter={StaticResource percentConverter}}" Width="100" Height=" 30" RenderTransformOrigin="2.057,10.035" Canvas.Left="683" Canvas.Top="195"/>
+    </Canvas>
+</Window>

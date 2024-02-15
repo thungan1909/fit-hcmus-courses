@@ -1,0 +1,3 @@
+AddPrefix "CV"
+Replace "youtube.com" ""
+Replace " " => "-"

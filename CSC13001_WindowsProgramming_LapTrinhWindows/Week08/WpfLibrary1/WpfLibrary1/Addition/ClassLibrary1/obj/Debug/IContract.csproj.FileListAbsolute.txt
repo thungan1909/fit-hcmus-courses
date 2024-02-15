@@ -1,0 +1,6 @@
+C:\Users\dev\source\repos\WpfLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\dev\source\repos\WpfLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\dev\source\repos\WpfLibrary1\ClassLibrary1\obj\Debug\IContract.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\WpfLibrary1\ClassLibrary1\obj\Debug\IContract.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\WpfLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\dev\source\repos\WpfLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

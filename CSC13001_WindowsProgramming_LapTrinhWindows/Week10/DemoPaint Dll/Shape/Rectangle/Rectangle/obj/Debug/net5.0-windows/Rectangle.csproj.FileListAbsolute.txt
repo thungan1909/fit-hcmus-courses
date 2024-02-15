@@ -1,0 +1,14 @@
+C:\Users\Ngan\source\repos\Rectangle\Rectangle\bin\Debug\net5.0-windows\Rectangle.deps.json
+C:\Users\Ngan\source\repos\Rectangle\Rectangle\bin\Debug\net5.0-windows\Rectangle.dll
+C:\Users\Ngan\source\repos\Rectangle\Rectangle\bin\Debug\net5.0-windows\ref\Rectangle.dll
+C:\Users\Ngan\source\repos\Rectangle\Rectangle\bin\Debug\net5.0-windows\Rectangle.pdb
+C:\Users\Ngan\source\repos\Rectangle\Rectangle\bin\Debug\net5.0-windows\Contract.dll
+C:\Users\Ngan\source\repos\Rectangle\Rectangle\bin\Debug\net5.0-windows\Contract.pdb
+C:\Users\Ngan\source\repos\Rectangle\Rectangle\obj\Debug\net5.0-windows\Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngan\source\repos\Rectangle\Rectangle\obj\Debug\net5.0-windows\Rectangle.AssemblyInfoInputs.cache
+C:\Users\Ngan\source\repos\Rectangle\Rectangle\obj\Debug\net5.0-windows\Rectangle.AssemblyInfo.cs
+C:\Users\Ngan\source\repos\Rectangle\Rectangle\obj\Debug\net5.0-windows\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\source\repos\Rectangle\Rectangle\obj\Debug\net5.0-windows\Rectangle.csproj.CopyComplete
+C:\Users\Ngan\source\repos\Rectangle\Rectangle\obj\Debug\net5.0-windows\Rectangle.dll
+C:\Users\Ngan\source\repos\Rectangle\Rectangle\obj\Debug\net5.0-windows\ref\Rectangle.dll
+C:\Users\Ngan\source\repos\Rectangle\Rectangle\obj\Debug\net5.0-windows\Rectangle.pdb

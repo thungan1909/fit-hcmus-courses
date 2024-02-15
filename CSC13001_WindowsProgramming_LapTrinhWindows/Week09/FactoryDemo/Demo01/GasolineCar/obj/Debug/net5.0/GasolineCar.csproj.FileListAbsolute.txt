@@ -1,0 +1,15 @@
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\GasolineCar\bin\Debug\net5.0\GasolineCar.deps.json
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\GasolineCar\bin\Debug\net5.0\GasolineCar.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\GasolineCar\bin\Debug\net5.0\ref\GasolineCar.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\GasolineCar\bin\Debug\net5.0\GasolineCar.pdb
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\GasolineCar\bin\Debug\net5.0\SuperCarLib.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\GasolineCar\bin\Debug\net5.0\SuperCarLib.pdb
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\GasolineCar\obj\Debug\net5.0\GasolineCar.csproj.AssemblyReference.cache
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\GasolineCar\obj\Debug\net5.0\GasolineCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\GasolineCar\obj\Debug\net5.0\GasolineCar.AssemblyInfoInputs.cache
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\GasolineCar\obj\Debug\net5.0\GasolineCar.AssemblyInfo.cs
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\GasolineCar\obj\Debug\net5.0\GasolineCar.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\GasolineCar\obj\Debug\net5.0\GasolineCar.csproj.CopyComplete
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\GasolineCar\obj\Debug\net5.0\GasolineCar.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\GasolineCar\obj\Debug\net5.0\ref\GasolineCar.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\GasolineCar\obj\Debug\net5.0\GasolineCar.pdb

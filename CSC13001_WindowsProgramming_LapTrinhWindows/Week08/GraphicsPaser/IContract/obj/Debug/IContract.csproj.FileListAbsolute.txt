@@ -1,0 +1,18 @@
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\BÀI TẬP VỀ NHÀ\Week07\GraphicsParser\IContract\bin\Debug\IContract.dll
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\BÀI TẬP VỀ NHÀ\Week07\GraphicsParser\IContract\bin\Debug\IContract.pdb
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\BÀI TẬP VỀ NHÀ\Week07\GraphicsParser\IContract\obj\Debug\IContract.csproj.AssemblyReference.cache
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\BÀI TẬP VỀ NHÀ\Week07\GraphicsParser\IContract\obj\Debug\IContract.csproj.CoreCompileInputs.cache
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\BÀI TẬP VỀ NHÀ\Week07\GraphicsParser\IContract\obj\Debug\IContract.dll
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\BÀI TẬP VỀ NHÀ\Week07\GraphicsParser\IContract\obj\Debug\IContract.pdb
+C:\Users\Ngan\Downloads\bainop\GraphicsParser\IContract\bin\Debug\IContract.dll
+C:\Users\Ngan\Downloads\bainop\GraphicsParser\IContract\bin\Debug\IContract.pdb
+C:\Users\Ngan\Downloads\bainop\GraphicsParser\IContract\obj\Debug\IContract.csproj.AssemblyReference.cache
+C:\Users\Ngan\Downloads\bainop\GraphicsParser\IContract\obj\Debug\IContract.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\Downloads\bainop\GraphicsParser\IContract\obj\Debug\IContract.dll
+C:\Users\Ngan\Downloads\bainop\GraphicsParser\IContract\obj\Debug\IContract.pdb
+C:\Users\Ngan\source\repos\19120302\GraphicsParser\IContract\bin\Debug\IContract.dll
+C:\Users\Ngan\source\repos\19120302\GraphicsParser\IContract\bin\Debug\IContract.pdb
+C:\Users\Ngan\source\repos\19120302\GraphicsParser\IContract\obj\Debug\IContract.csproj.AssemblyReference.cache
+C:\Users\Ngan\source\repos\19120302\GraphicsParser\IContract\obj\Debug\IContract.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\source\repos\19120302\GraphicsParser\IContract\obj\Debug\IContract.dll
+C:\Users\Ngan\source\repos\19120302\GraphicsParser\IContract\obj\Debug\IContract.pdb

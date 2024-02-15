@@ -1,0 +1,15 @@
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Line2D\bin\Debug\net5.0-windows\Line2D.deps.json
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Line2D\bin\Debug\net5.0-windows\Line2D.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Line2D\bin\Debug\net5.0-windows\ref\Line2D.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Line2D\bin\Debug\net5.0-windows\Line2D.pdb
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Line2D\bin\Debug\net5.0-windows\Contract.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Line2D\bin\Debug\net5.0-windows\Contract.pdb
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Line2D\obj\Debug\net5.0-windows\Line2D.csproj.AssemblyReference.cache
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Line2D\obj\Debug\net5.0-windows\Line2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Line2D\obj\Debug\net5.0-windows\Line2D.AssemblyInfoInputs.cache
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Line2D\obj\Debug\net5.0-windows\Line2D.AssemblyInfo.cs
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Line2D\obj\Debug\net5.0-windows\Line2D.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Line2D\obj\Debug\net5.0-windows\Line2D.csproj.CopyComplete
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Line2D\obj\Debug\net5.0-windows\Line2D.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Line2D\obj\Debug\net5.0-windows\ref\Line2D.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week10\DemoPaint\Line2D\obj\Debug\net5.0-windows\Line2D.pdb

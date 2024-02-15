@@ -1,0 +1,308 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\DemoPaint\\DemoPaint.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Circle2D\\Circle2D.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Circle2D\\Circle2D.csproj",
+        "projectName": "Circle2D",
+        "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Circle2D\\Circle2D.csproj",
+        "packagesPath": "C:\\Users\\Ngan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Circle2D\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ngan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Contract\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Contract\\Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Contract\\Contract.csproj",
+        "projectName": "Contract",
+        "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Contract\\Contract.csproj",
+        "packagesPath": "C:\\Users\\Ngan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ngan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\DemoPaint\\DemoPaint.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\DemoPaint\\DemoPaint.csproj",
+        "projectName": "DemoPaint",
+        "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\DemoPaint\\DemoPaint.csproj",
+        "packagesPath": "C:\\Users\\Ngan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\DemoPaint\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ngan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Circle2D\\Circle2D.csproj": {
+                "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Circle2D\\Circle2D.csproj"
+              },
+              "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Contract\\Contract.csproj"
+              },
+              "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Line2D\\Line2D.csproj": {
+                "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Line2D\\Line2D.csproj"
+              },
+              "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Square2D\\Square2D.csproj": {
+                "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Square2D\\Square2D.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Line2D\\Line2D.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Line2D\\Line2D.csproj",
+        "projectName": "Line2D",
+        "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Line2D\\Line2D.csproj",
+        "packagesPath": "C:\\Users\\Ngan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Line2D\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ngan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Contract\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Square2D\\Square2D.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Square2D\\Square2D.csproj",
+        "projectName": "Square2D",
+        "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Square2D\\Square2D.csproj",
+        "packagesPath": "C:\\Users\\Ngan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Square2D\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ngan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week10\\DemoPaint\\Contract\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

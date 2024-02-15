@@ -1,0 +1,15 @@
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\ElectricCar\bin\Debug\net5.0\ElectricCar.deps.json
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\ElectricCar\bin\Debug\net5.0\ElectricCar.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\ElectricCar\bin\Debug\net5.0\ref\ElectricCar.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\ElectricCar\bin\Debug\net5.0\ElectricCar.pdb
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\ElectricCar\bin\Debug\net5.0\SuperCarLib.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\ElectricCar\bin\Debug\net5.0\SuperCarLib.pdb
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\ElectricCar\obj\Debug\net5.0\ElectricCar.csproj.AssemblyReference.cache
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\ElectricCar\obj\Debug\net5.0\ElectricCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\ElectricCar\obj\Debug\net5.0\ElectricCar.AssemblyInfoInputs.cache
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\ElectricCar\obj\Debug\net5.0\ElectricCar.AssemblyInfo.cs
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\ElectricCar\obj\Debug\net5.0\ElectricCar.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\ElectricCar\obj\Debug\net5.0\ElectricCar.csproj.CopyComplete
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\ElectricCar\obj\Debug\net5.0\ElectricCar.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\ElectricCar\obj\Debug\net5.0\ref\ElectricCar.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\ElectricCar\obj\Debug\net5.0\ElectricCar.pdb

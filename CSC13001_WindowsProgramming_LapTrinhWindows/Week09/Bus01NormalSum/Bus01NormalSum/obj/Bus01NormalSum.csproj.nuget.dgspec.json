@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week09\\Bus01NormalSum\\Bus01NormalSum\\Bus01NormalSum.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week09\\Bus01NormalSum\\Bus01NormalSum\\Bus01NormalSum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week09\\Bus01NormalSum\\Bus01NormalSum\\Bus01NormalSum.csproj",
+        "projectName": "Bus01NormalSum",
+        "projectPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week09\\Bus01NormalSum\\Bus01NormalSum\\Bus01NormalSum.csproj",
+        "packagesPath": "C:\\Users\\Ngan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ngan\\source\\repos\\Lập trình windows\\Week09\\Bus01NormalSum\\Bus01NormalSum\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ngan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

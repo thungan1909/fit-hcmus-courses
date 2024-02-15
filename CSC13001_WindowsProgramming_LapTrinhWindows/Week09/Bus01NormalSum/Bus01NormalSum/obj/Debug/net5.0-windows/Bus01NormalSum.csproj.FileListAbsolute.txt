@@ -1,0 +1,17 @@
+C:\Users\Ngan\source\repos\Bus01NormalSum\Bus01NormalSum\bin\Debug\net5.0-windows\Bus01NormalSum.deps.json
+C:\Users\Ngan\source\repos\Bus01NormalSum\Bus01NormalSum\bin\Debug\net5.0-windows\Bus01NormalSum.dll
+C:\Users\Ngan\source\repos\Bus01NormalSum\Bus01NormalSum\bin\Debug\net5.0-windows\ref\Bus01NormalSum.dll
+C:\Users\Ngan\source\repos\Bus01NormalSum\Bus01NormalSum\bin\Debug\net5.0-windows\Bus01NormalSum.pdb
+C:\Users\Ngan\source\repos\Bus01NormalSum\Bus01NormalSum\bin\Debug\net5.0-windows\Contract.dll
+C:\Users\Ngan\source\repos\Bus01NormalSum\Bus01NormalSum\bin\Debug\net5.0-windows\Entity.dll
+C:\Users\Ngan\source\repos\Bus01NormalSum\Bus01NormalSum\bin\Debug\net5.0-windows\Contract.pdb
+C:\Users\Ngan\source\repos\Bus01NormalSum\Bus01NormalSum\bin\Debug\net5.0-windows\Entity.pdb
+C:\Users\Ngan\source\repos\Bus01NormalSum\Bus01NormalSum\obj\Debug\net5.0-windows\Bus01NormalSum.csproj.AssemblyReference.cache
+C:\Users\Ngan\source\repos\Bus01NormalSum\Bus01NormalSum\obj\Debug\net5.0-windows\Bus01NormalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngan\source\repos\Bus01NormalSum\Bus01NormalSum\obj\Debug\net5.0-windows\Bus01NormalSum.AssemblyInfoInputs.cache
+C:\Users\Ngan\source\repos\Bus01NormalSum\Bus01NormalSum\obj\Debug\net5.0-windows\Bus01NormalSum.AssemblyInfo.cs
+C:\Users\Ngan\source\repos\Bus01NormalSum\Bus01NormalSum\obj\Debug\net5.0-windows\Bus01NormalSum.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\source\repos\Bus01NormalSum\Bus01NormalSum\obj\Debug\net5.0-windows\Bus01NormalSum.csproj.CopyComplete
+C:\Users\Ngan\source\repos\Bus01NormalSum\Bus01NormalSum\obj\Debug\net5.0-windows\Bus01NormalSum.dll
+C:\Users\Ngan\source\repos\Bus01NormalSum\Bus01NormalSum\obj\Debug\net5.0-windows\ref\Bus01NormalSum.dll
+C:\Users\Ngan\source\repos\Bus01NormalSum\Bus01NormalSum\obj\Debug\net5.0-windows\Bus01NormalSum.pdb

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FlyingCar/1.0.0": {
+        "dependencies": {
+          "Demo01": "1.0.0",
+          "SuperCarLib": "1.0.0"
+        },
+        "runtime": {
+          "FlyingCar.dll": {}
+        }
+      },
+      "Demo01/1.0.0": {
+        "dependencies": {
+          "SuperCarLib": "1.0.0"
+        },
+        "runtime": {
+          "Demo01.dll": {}
+        }
+      },
+      "SuperCarLib/1.0.0": {
+        "runtime": {
+          "SuperCarLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FlyingCar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Demo01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SuperCarLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,46 @@
+﻿<Window x:Class="StudentBindingNotify.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentBindingNotify"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Window.Resources>
+        <local:RelativeToAbsoluteConverter x:Key="absoluteConverter"/>
+    </Window.Resources>
+    <Canvas>
+        <Label Content="Thay đổi 3 thông tin MSSV, Họ Tên, Địa Chỉ
+ và nhấn nút Update để đổi ảnh đại diện" Height="44" Width="609" Canvas.Left="186"/>
+        <StackPanel Canvas.Left="327" Canvas.Top="52" Name="svStackPanel" Height="310" Width="438">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="{Binding Avatar, Converter={StaticResource absoluteConverter}}" Width="80" Height="102" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="MSSV" Width="100" Height="30"/>
+                <TextBox x:Name="MSSVTextBox" Text="{Binding MSSV}" Width="151" Height="38" Canvas.Left="75" Canvas.Top="19"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Họ và Tên" Width="100" Height="30"/>
+                <TextBox x:Name="HoTenTextBox" Text="{Binding HoTen}" Width="150" Height="39" Canvas.Left="75" Canvas.Top="117"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Địa Chỉ" Width="100" Height="30"/>
+                <TextBox x:Name="DiaChiTextBox" Text="{Binding DiaChi}" Width="150" Height="38" Canvas.Left="75" Canvas.Top="71"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="SĐT" Width="100" Height="30"/>
+                <TextBox x:Name="SDTTextBox" Text="{Binding SDT}" Width="150" Height="38" Canvas.Left="75" Canvas.Top="71"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Email" Width="100" Height="30"/>
+                <TextBox x:Name="EmailTextBox" Text="{Binding Email}" Width="170" Height="38" Canvas.Left="75"/>
+            </StackPanel>
+        </StackPanel>
+
+        <Button Name="updateButton" Width="80" Height="35" 
+                Content="Update" 
+                Canvas.Left="479" Canvas.Top="377"
+                Click="updateButton_Click"/>
+    </Canvas>
+</Window>

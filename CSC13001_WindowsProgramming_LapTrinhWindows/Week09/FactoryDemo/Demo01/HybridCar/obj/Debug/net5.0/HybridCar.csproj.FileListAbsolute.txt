@@ -1,0 +1,15 @@
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\HybridCar\bin\Debug\net5.0\HybridCar.deps.json
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\HybridCar\bin\Debug\net5.0\HybridCar.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\HybridCar\bin\Debug\net5.0\ref\HybridCar.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\HybridCar\bin\Debug\net5.0\HybridCar.pdb
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\HybridCar\bin\Debug\net5.0\SuperCarLib.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\HybridCar\bin\Debug\net5.0\SuperCarLib.pdb
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\HybridCar\obj\Debug\net5.0\HybridCar.csproj.AssemblyReference.cache
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\HybridCar\obj\Debug\net5.0\HybridCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\HybridCar\obj\Debug\net5.0\HybridCar.AssemblyInfoInputs.cache
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\HybridCar\obj\Debug\net5.0\HybridCar.AssemblyInfo.cs
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\HybridCar\obj\Debug\net5.0\HybridCar.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\HybridCar\obj\Debug\net5.0\HybridCar.csproj.CopyComplete
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\HybridCar\obj\Debug\net5.0\HybridCar.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\HybridCar\obj\Debug\net5.0\ref\HybridCar.dll
+C:\Users\Ngan\source\repos\Lập trình windows\Week09\Demo\Demo01\HybridCar\obj\Debug\net5.0\HybridCar.pdb

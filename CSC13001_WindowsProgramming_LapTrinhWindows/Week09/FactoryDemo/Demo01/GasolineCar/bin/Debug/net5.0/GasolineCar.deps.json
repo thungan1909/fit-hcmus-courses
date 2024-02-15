@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GasolineCar/1.0.0": {
+        "dependencies": {
+          "SuperCarLib": "1.0.0"
+        },
+        "runtime": {
+          "GasolineCar.dll": {}
+        }
+      },
+      "SuperCarLib/1.0.0": {
+        "runtime": {
+          "SuperCarLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GasolineCar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SuperCarLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
