@@ -1,0 +1,100 @@
+Street Pasteur, Ben Nghe Ward, District 1
+Street Le Thi Rieng, Ben Thanh Ward, District 1
+Street Bui Thi Xuan, Pham Ngu Lao Ward, District 1
+Street Ly Tu Trong, Ben Nghe Ward, District 1
+Street Bui Vien, Pham Ngu Lao Ward, District 1
+Street Co Giang, Cau Ong Lanh Ward, District 1
+Street Tran Hung Dao, Nguyen Cu Trinh Ward, District 1
+Street Cong Quynh, Nguyen Cu Trinh Ward, District 1
+Street Nguyen Cong Tru, Nguyen Thai Binh Ward, District 1
+Street Luong Dinh Cua, An Phu Ward, District 2
+Street Mai Chi Tho, An Phu Ward, District 2
+Street Pham Cong Tru, Thanh My Loi Ward, District 2
+Street Nguyen Duy Trinh, Binh Trung Tay Ward, District 2
+Street Nguyen Thi Dinh, Binh Trung Tay Ward, District 2
+Street Ba Huyen Thanh Quan, Ward 7, District 3
+Street Cach Mang Thang Tam, Ward 4, District 3
+Street Tran Quang Dieu, Ward 14, District 3
+Street Tran Quoc Thao, Ward 7, District 3
+Street Dien Bien Phu, Ward 1, District 3
+Street Nguyen Thi Minh Khai, Ward 6, District 3
+Street Truong Dinh, Ward 7, District 3
+Street Vo Thi Sau, Ward 7, District 3
+Street Khanh Hoi, Ward 4, District 4
+Street Hoang Dieu, Ward 12, District 4
+Street Nguyen Khoai, Ward 1, District 4
+Street Nguyen Tat Thanh, Ward 6, District 4
+Street Vinh Hoi, Ward 4, District 4
+Street Ton That Thuyet, Ward 3, District 4
+Street An Duong Vuong, Ward 3, District 5
+Street Tran Phu, Ward 4, District 5
+Street Hai Thuong Lan Ong, Ward 10, District 5
+Street Nguyen Bieu, Ward 1, District 5
+Street Ngo Quyen, Ward 4, District 5
+Street Chau Van Liem, Ward 11, District 5
+Street Hung Vuong, Ward 9, District 5
+Street Bui Huu Nghia, Ward 5, District 5
+Street Nguyen Van Cu, Ward 4, District 5
+Street Nguyen Trai, Ward 3, District 5
+Street Nguyen Van Luong, Ward 10, District 6
+Street Hau Giang, Ward 12, District 6
+Street Pham Dinh Ho, Ward 2, District 6
+Street Cao Van Lau, Ward 3, District 6
+Street Gia Phu, Ward 3, District 6
+Street Pham Van Chi, Ward 3, District 6
+Street Kinh Duong Vuong, Ward 12, District 6
+Street Ly Chieu Hoang, Ward 10, District 6
+Street Phan Van Khoe, Ward 4, District 6
+Street Nguyen Thi Thap, Tan Phong Ward, District 7
+Street Huynh Tan Phat, Tan Thuan Dong Ward, District 7
+Street Nguyen Van Linh, Tan Phu Ward, District 7
+Street Phan Khiem Ich, Tan Phong Ward, District 7
+Street Tran Xuan Soan, Tan Hung Ward, District 7
+Street Nguyen Huu Tho, Tan Hung Ward, District 7
+Street Au Duong Lan, Ward 3, District 8
+Street Pham The Hien, Ward 6, District 8
+Street Pham Hung, Ward 9, District 8
+Street Ta Quang Buu, Ward 6, District 8
+Street Tung Thien Vuong, Ward 12, District 8
+Street Cao Lo, Ward 4, District 8
+Street Nguyen Van Tang, Long My Thanh Ward, District 9
+Street Quang Trung, Hiep Phu Ward, District 9
+Street Tang Nhon Phu, Phuoc Long B Ward, District 9
+Street Ho Thi Ky, Ward 1, District 10
+Street Su Van Hanh, Ward 10, District 10
+Street Ly Thai To, Ward 9, District 10
+Street Hoa Hao, Ward 7, District 10
+Street To Hien Thanh, Ward 10, District 10
+Street Ly Thuong Kiet, Ward 14, District 10
+Street Thanh Thai, Ward 10, District 10
+Street Phu Tho, Ward 2, District 11
+Street Ly Nam De, Ward 7, District 11
+Street Lac Long Quan, Ward 1, District 11
+Street Lanh Binh Thang, Ward 13, District 11
+Street Nguyen Khuyen, Ward 12, Binh Thanh District
+Street Ho Xuan Huong, Ward 14, Binh Thanh District
+Street Dien Hong, Ward 1, Binh Thanh District
+Street Dinh Bo Linh, Ward 26, Binh Thanh District
+Street Phan Boi Chau, Ward 2, Binh Thanh District
+Street Xo Viet Nghe Tinh, Ward 17, Binh Thanh District
+Street Dang Van Ngu, Ward 14, Phu Nhuan District
+Street Cao Thang, Ward 17, Phu Nhuan District
+Street Dao Duy Tu, Ward 17, Phu Nhuan District
+Street Doan Thi Diem, Ward 3, Phu Nhuan District
+Street Phan Xich Long, Ward 3, Phu Nhuan District
+Street Nguyen Van Troi, Ward 10, Phu Nhuan District
+Street Thang Long, Ward 4, Tan Binh District
+Street Nguyen Thai Binh, Ward 12, Tan Binh District
+Street Hoang Van Thu, Ward 2, Tan Binh District
+Street Pham Van Hai, Ward 3, Tan Binh District
+Street Dang Minh Tru, Ward 10, Tan Binh District
+Street Pham Ngu Lao, Ward 3, Go Vap District
+Street Phan Huy Ich, Ward 14, Go Vap District
+Street Nguyen Binh Khiem, Ward 1, Go Vap District
+Street Nguyen Oanh, Ward 6, Go Vap District
+Street Ma Lo, Binh Tri Dong A Ward, Binh Tan District
+Street Ngo Y Linh, An Lac Ward, Binh Tan District
+Street Bui Tu Toan, An Lac Ward, Binh Tan District
+Street Nguyen Trong Tri, An Lac A Ward, Binh Tan District
+Street Tan Ky Tan Quy, Binh Hung Hoa A Ward, Binh Tan District
+Street Ten Lua, Binh Tri Dong B Ward, Binh Tan District

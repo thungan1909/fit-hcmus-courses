@@ -1,0 +1,64 @@
+Ma,	Ten tinh, TP
+001,	Thanh pho Ha Noi
+002,	Tinh Ha Giang
+004,	Tinh Cao Bang
+006,	Tinh Bac Kan
+008,	Tinh Tuyen Quang
+010,	Tinh Lao Cai
+011,	Tinh Dien Bien
+012,	Tinh Lai Chau
+014,	Tinh Son La
+015,	Tinh Yen Bai
+017,	Tinh Hoa Binh
+019,	Tinh Thai Nguyen
+020,	Tinh Lang Son
+022,	Tinh Quang Ninh
+024,	Tinh Bac Giang
+025,	Tinh Phu Tho
+026,	Tinh Vinh Phuc
+027,	Tinh Bac Ninh
+030,	Tinh Hai Duong
+031,	Thanh pho Hai Phong
+033,	Tinh Hung Yen
+034,	Tinh Thai Binh
+035,	Tinh Ha Nam
+036,	Tinh Nam Dinh
+037,	Tinh Ninh Binh
+038,	Tinh Thanh Hoa
+040,	Tinh Nghe An
+042,	Tinh Ha Tinh
+044,	Tinh Quang Binh
+045,	Tinh Quang Tri
+046,	Tinh Thua Thien Hue
+048,	Thanh pho Da Nang
+049,	Tinh Quang Nam
+051,	Tinh Quang Ngai
+052,	Tinh Binh Dinh
+054,	Tinh Phu Yen
+056,	Tinh Khanh Hoa
+058,	Tinh Ninh Thuan
+060,	Tinh Binh Thuan
+062,	Tinh Kon Tum
+064,	Tinh Gia Lai
+066,	Tinh Dak Lak
+067,	Tinh Dak Nong
+068,	Tinh Lam Dong
+070,	Tinh Binh Phuoc
+072,	Tinh Tay Ninh
+074,	Tinh Binh Duong
+075,	Tinh Dong Nai
+077,	Tinh Ba Ria - Vung Tau
+079,	Thanh pho Ho Chi Minh
+080,	Tinh Long An
+082,	Tinh Tien Giang
+083,	Tinh Ben Tre
+084,	Tinh Tra Vinh
+086,	Tinh Vinh Long
+087,	Tinh Dong Thap
+089,	Tinh An Giang
+091,	Tinh Kien Giang
+092,	Thanh pho Can Tho
+093,	Tinh Hau Giang
+094,	Tinh Soc Trang
+095,	Tinh Bac Lieu
+096,	Tinh Ca Mau

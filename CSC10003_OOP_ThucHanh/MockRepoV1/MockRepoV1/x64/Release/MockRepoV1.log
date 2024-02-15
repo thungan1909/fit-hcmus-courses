@@ -1,0 +1,9 @@
+﻿  EmailMock.cpp
+D:\OOP\Nhóm4\MockRepoV1\MockRepoV1\EmailMock.cpp(25,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  FullNameMock.cpp
+D:\OOP\Nhóm4\MockRepoV1\MockRepoV1\FullNameMock.cpp(51,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP\Nhóm4\MockRepoV1\MockRepoV1\FullNameMock.cpp(53,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP\Nhóm4\MockRepoV1\MockRepoV1\FullNameMock.cpp(58,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP\Nhóm4\MockRepoV1\MockRepoV1\FullNameMock.cpp(65,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP\Nhóm4\MockRepoV1\MockRepoV1\FullNameMock.cpp(67,79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  MockRepoV1.vcxproj -> D:\OOP\Nhóm4\MockRepoV1\x64\Release\MockRepoV1.lib
