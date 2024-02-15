@@ -1,0 +1,5 @@
+T110, Tran Tung Lam, 0912007007, MegaBasic
+D310, Ly Quoc Kiet, 0912008008, MegaBasic, 1000MB
+D350, Tran Hung Phat, 0912009009, MegaPro, 7050MB
+D160, Lam Tieu Mai, 0912079009, MegaMaxi, 10050MB
+T130, Le My An, 0912007907, MegaBasic
