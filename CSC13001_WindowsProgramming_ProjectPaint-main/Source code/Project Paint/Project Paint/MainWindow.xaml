@@ -1,0 +1,218 @@
+﻿<Fluent:RibbonWindow x:Class="Project_Paint.MainWindow"
+                     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                     xmlns:Fluent="clr-namespace:Fluent;assembly=Fluent"
+                     mc:Ignorable="d"
+        Title="Project Paint" Loaded="RibbonWindow_Loaded" 
+        WindowStartupLocation="Manual" SizeToContent="Manual" Closing="RibbonWindow_Closing"  Height="690" Width="890" >
+    <DockPanel LastChildFill="True">
+        <Fluent:Ribbon  DockPanel.Dock="Top">
+            <Fluent:Ribbon.QuickAccessItems>
+                <Fluent:QuickAccessMenuItem IsChecked="true">
+                    <Fluent:Button Header="Save" Icon="/Icon/save.png" Click="saveButton_Click">
+                        <Fluent:Button.LargeIcon>
+                            <Image Source="Icon/save.png" RenderOptions.BitmapScalingMode="HighQuality" />
+                        </Fluent:Button.LargeIcon>
+                    </Fluent:Button>
+                </Fluent:QuickAccessMenuItem>
+            </Fluent:Ribbon.QuickAccessItems>
+
+            <Fluent:Ribbon.Menu>
+                <Fluent:Backstage Header="File">
+                    <Fluent:BackstageTabControl>
+                        <Fluent:Button Header="New" Icon="/Icon/newfile.png" Click="newButton_Click">
+                            <Fluent:Button.LargeIcon>
+                                <Image Source="Icon/newfile.png" RenderOptions.BitmapScalingMode="HighQuality" />
+                            </Fluent:Button.LargeIcon>
+                        </Fluent:Button>
+                        <Fluent:Button Header="Open" Icon="/Icon/open.png" Click="openButton_Click">
+                            <Fluent:Button.LargeIcon>
+                                <Image Source="Icon/open.png" RenderOptions.BitmapScalingMode="HighQuality" />
+                            </Fluent:Button.LargeIcon>
+                        </Fluent:Button>
+                        <Fluent:Button Header="Save" Icon="/Icon/save.png" Click="saveButton_Click">
+                            <Fluent:Button.LargeIcon>
+                                <Image Source="Icon/save.png" RenderOptions.BitmapScalingMode="HighQuality" />
+                            </Fluent:Button.LargeIcon>
+                        </Fluent:Button>
+                        <Fluent:Button Header="Exit" Icon="/Icon/exit.png" Click="exitButton_Click">
+                            <Fluent:Button.LargeIcon>
+                                <Image Source="Icon/exit.png" RenderOptions.BitmapScalingMode="HighQuality" />
+                            </Fluent:Button.LargeIcon>
+                        </Fluent:Button>
+
+                    </Fluent:BackstageTabControl>
+                </Fluent:Backstage>
+            </Fluent:Ribbon.Menu>
+            <Fluent:RibbonTabItem Header="Home">
+                <Fluent:RibbonGroupBox Header="ClearAll">
+                    <Fluent:Button  Icon="/Icon/clear.png"  Click="clearButton_Click"  Padding="5,5,0,5" Margin="0,0,0,-11" >
+                        <Fluent:Button.LargeIcon>
+                            <Image Source="Icon/clear.png" RenderOptions.BitmapScalingMode="HighQuality" ></Image>
+                        </Fluent:Button.LargeIcon>
+                    </Fluent:Button>
+                </Fluent:RibbonGroupBox>
+         
+                <Fluent:RibbonGroupBox Header="Pencil">
+                    <Fluent:Button  Icon="/Icon/pen.png"   Click="drawButton_Click"  Padding="5,5,0,5" Margin="0,0,0,-11" >
+                        <Fluent:Button.LargeIcon>
+                            <Image Source="Icon/pen.png" RenderOptions.BitmapScalingMode="HighQuality" ></Image>
+                        </Fluent:Button.LargeIcon>
+                    </Fluent:Button>
+                </Fluent:RibbonGroupBox>
+                <Fluent:RibbonGroupBox Header="Color" >
+                    <Fluent:Button Name="CurrentColor" Padding="5,5,5,5" Background="Black" ></Fluent:Button>
+                </Fluent:RibbonGroupBox>
+                <Fluent:RibbonGroupBox Header="Colors">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="15"/>
+                            <ColumnDefinition Width="15"/>
+                            <ColumnDefinition Width="15"/>
+                            <ColumnDefinition Width="15"/>
+                            <ColumnDefinition Width="15"/>
+                            <ColumnDefinition Width="15"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="15"/>
+                            <RowDefinition Height="15"/>
+                            <RowDefinition Height="15"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Fluent:Button Grid.Column="0" Grid.Row="0" Background="Red" x:Name="RedColorBtn" Click="selectColorBtn_Click"></Fluent:Button>
+                        <Fluent:Button Grid.Column="1" Grid.Row="0" Background="Yellow" x:Name="YellowColorBtn" Click="selectColorBtn_Click"></Fluent:Button>
+                        <Fluent:Button Grid.Column="2" Grid.Row="0" Background="Green" x:Name="GreenColorBtn" Click="selectColorBtn_Click"></Fluent:Button>
+                        <Fluent:Button Grid.Column="3" Grid.Row="0" Background="Blue" x:Name="BlueColorBtn" Click="selectColorBtn_Click"></Fluent:Button>
+                        <Fluent:Button Grid.Column="4" Grid.Row="0" Background="Pink" x:Name="PinkColorBtn" Click="selectColorBtn_Click"></Fluent:Button>
+                        <Fluent:Button Grid.Column="5" Grid.Row="0" Background="Orange" x:Name="OrangeColorBtn" Click="selectColorBtn_Click"></Fluent:Button>
+                        <Fluent:Button Grid.Column="0" Grid.Row="1" Background="Black" x:Name="BlackColorBtn" Click="selectColorBtn_Click"></Fluent:Button>
+                        <Fluent:Button Grid.Column="1" Grid.Row="1" Background="Gray" x:Name="GrayColorBtn" Click="selectColorBtn_Click"></Fluent:Button>
+                        <Fluent:Button Grid.Column="2" Grid.Row="1" Background="LightGray" x:Name="LightGrayColorBtn" Click="selectColorBtn_Click"></Fluent:Button>
+                        <Fluent:Button Grid.Column="3" Grid.Row="1" Background="White" x:Name="WhiteColorBtn" Click="selectColorBtn_Click"></Fluent:Button>
+                        <Fluent:Button Grid.Column="4" Grid.Row="1" Background="Purple" x:Name="PurpleColorBtn" Click="selectColorBtn_Click"></Fluent:Button>
+                        <Fluent:Button Grid.Column="5" Grid.Row="1" Background="Brown" x:Name="BrownColorBtn" Click="selectColorBtn_Click"></Fluent:Button>
+                        <Fluent:Button Grid.Column="0" Grid.Row="2" x:Name="btnMoreColor1" Background="White" Click="selectColorBtn_Click"></Fluent:Button>
+                        <Fluent:Button Grid.Column="1" Grid.Row="2" x:Name="btnMoreColor2" Background="White" Click="selectColorBtn_Click"></Fluent:Button>
+                        <Fluent:Button Grid.Column="2" Grid.Row="2"  x:Name="btnMoreColor3" Background="White" Click="selectColorBtn_Click"></Fluent:Button>
+                        <Fluent:Button Grid.Column="3" Grid.Row="2" x:Name="btnMoreColor4" Background="White" Click="selectColorBtn_Click"></Fluent:Button>
+                        <Fluent:Button Grid.Column="4" Grid.Row="2" x:Name="btnMoreColor5" Background="White" Click="selectColorBtn_Click"></Fluent:Button>
+                        <Fluent:Button Grid.Column="5" Grid.Row="2"  x:Name="btnMoreColor6" Background="White" Click="selectColorBtn_Click"></Fluent:Button>
+
+                    </Grid>
+                </Fluent:RibbonGroupBox>
+                <Fluent:RibbonGroupBox Header="Styles - Sizes" >
+                    <Fluent:DropDownButton Header="Size"  Icon="/Icon/thickness.png" Padding="0,0,0,5">
+                        <Fluent:DropDownButton.LargeIcon>
+                            <Image Source="Icon/thickness.png" RenderOptions.BitmapScalingMode="HighQuality" />
+                        </Fluent:DropDownButton.LargeIcon>
+                        <ComboBox  ToolBar.OverflowMode="Never" x:Name="lineWidthComboBox" Width="100" SelectedIndex="0" Padding="0" SelectionChanged="lineSizeComboBox_SelectionChanged" DropDownClosed="lineSizeComboBox_DropDownClosed">
+                            <ComboBoxItem>
+                                <StackPanel Orientation="Horizontal">
+                                    <Rectangle Fill="Black" Height="3" Width="70" Margin="0,5" />
+                                    <TextBlock Margin="8,0,0,0" ><Run Text="3" /></TextBlock>
+                                </StackPanel>
+                            </ComboBoxItem>
+                            <ComboBoxItem>
+                                <StackPanel Orientation="Horizontal">
+                                    <Rectangle Fill="Black" Height="4" Width="70" Margin="0,5" />
+                                    <TextBlock Margin="8,0,0,0" ><Run Text="4" /></TextBlock>
+                                </StackPanel>
+                            </ComboBoxItem>
+                            <ComboBoxItem>
+                                <StackPanel Orientation="Horizontal">
+                                    <Rectangle Fill="Black" Height="5" Width="70" Margin="0,5" />
+                                    <TextBlock Margin="8,0,0,0" ><Run Text="5" /></TextBlock>
+                                </StackPanel>
+                            </ComboBoxItem>
+                            <ComboBoxItem>
+                                <StackPanel Orientation="Horizontal">
+                                    <Rectangle Fill="Black" Height="6" Width="70" Margin="0,5" />
+                                    <TextBlock Margin="8,0,0,0" ><Run Text="6" /></TextBlock>
+                                </StackPanel>
+                            </ComboBoxItem>
+                            <ComboBoxItem>
+                                <StackPanel Orientation="Horizontal">
+                                    <Rectangle Fill="Black" Height="7" Width="70" Margin="0,5" />
+                                    <TextBlock Margin="8,0,0,0" ><Run Text="7" /></TextBlock>
+                                </StackPanel>
+                            </ComboBoxItem>
+                            <ComboBoxItem>
+                                <StackPanel Orientation="Horizontal">
+                                    <Rectangle Fill="Black" Height="9" Width="70" Margin="0,5" />
+                                    <TextBlock Margin="8,0,0,0" ><Run Text="9" /></TextBlock>
+                                </StackPanel>
+                            </ComboBoxItem>
+                            <ComboBoxItem>
+                                <StackPanel Orientation="Horizontal">
+                                    <Rectangle Fill="Black" Height="11" Width="70" Margin="0,5" />
+                                    <TextBlock Margin="8,0,0,0" ><Run Text="11" /></TextBlock>
+                                </StackPanel>
+                            </ComboBoxItem>
+
+                        </ComboBox>
+                    </Fluent:DropDownButton>
+                    <Fluent:DropDownButton Header="Styles" Icon="/Icon/styles.png" Padding="5,0,0,0">
+                        <Fluent:DropDownButton.LargeIcon>
+                            <Image Source="Icon/styles.png" RenderOptions.BitmapScalingMode="HighQuality" />
+                        </Fluent:DropDownButton.LargeIcon>
+                        <ComboBox  ToolBar.OverflowMode="Never" x:Name="lineStyleComboBox" Width="100" SelectedIndex="0" Padding="0" SelectionChanged="lineStyleComboBox_SelectionChanged" DropDownClosed="lineStyleComboBox_DropDownClosed">
+                            <ComboBoxItem>
+                                <StackPanel Orientation="Horizontal">
+                                    <Image Source="Icon/DashStyle_Solid.png"/>
+                                    <TextBlock Margin="10" Text="Solid"></TextBlock>
+                                </StackPanel>
+                            </ComboBoxItem>
+                            <ComboBoxItem>
+                                <StackPanel Orientation="Horizontal">
+                                    <Image Source="Icon/DashStyle_Dash.png"/>
+                                    <TextBlock Margin="10" Text="Dash"></TextBlock>
+                                </StackPanel>
+                            </ComboBoxItem>
+                            <ComboBoxItem>
+                                <StackPanel Orientation="Horizontal">
+                                    <Image Source="Icon/DashStyle_Dot.png"/>
+                                    <TextBlock Margin="10" Text="Dot"></TextBlock>
+                                </StackPanel>
+                            </ComboBoxItem>
+                            <ComboBoxItem>
+                                <StackPanel Orientation="Horizontal">
+                                    <Image Source="Icon/DashStyle_DashDot.png"/>
+                                    <TextBlock Margin="10" Text="Dash Dot"></TextBlock>
+                                </StackPanel>
+                            </ComboBoxItem>
+                            <ComboBoxItem>
+                                <StackPanel Orientation="Horizontal">
+                                    <Image Source="Icon/DashStyle_DashDotDot.png"/>
+                                    <TextBlock Margin="10" Text="Dash Dot Dot"></TextBlock>
+                                </StackPanel>
+                            </ComboBoxItem>
+                        </ComboBox>
+
+                    </Fluent:DropDownButton>
+
+                </Fluent:RibbonGroupBox>
+                <Fluent:RibbonGroupBox Header="Shapes">
+
+                    <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" Height="40" Name="prototypesStackPanel" AllowDrop="True">
+
+                    </StackPanel>
+                </Fluent:RibbonGroupBox>
+
+
+
+            </Fluent:RibbonTabItem>
+
+        </Fluent:Ribbon>
+        <Grid>
+
+            <Border Grid.Row="0" Grid.RowSpan="3" Grid.Column="1" >
+                <Canvas x:Name="canvas"  ClipToBounds="True" HorizontalAlignment="Left" Width="740" Background="White"
+                   MouseDown="canvas_MouseDown" MouseMove="canvas_MouseMove" MouseUp="canvas_MouseUp" Margin="0,0,0,-13" />
+            </Border>
+        </Grid>
+
+    </DockPanel>
+</Fluent:RibbonWindow>

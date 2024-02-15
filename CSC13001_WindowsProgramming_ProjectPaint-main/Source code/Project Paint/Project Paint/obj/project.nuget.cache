@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tw8hXu/6MFPf3jH0KZRYD4fZeMFgfWj4oFKpUzxnLUGdJ/vqsdtRxtxa53QZALP8lJjB2TiKdzniRPb0KmuZaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ngan\\Desktop\\19120302\\Source code\\Project Paint\\Project Paint\\Project Paint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ngan\\.nuget\\packages\\controlzex\\5.0.1\\controlzex.5.0.1.nupkg.sha512",
+    "C:\\Users\\Ngan\\.nuget\\packages\\fluent.ribbon\\9.0.1\\fluent.ribbon.9.0.1.nupkg.sha512",
+    "C:\\Users\\Ngan\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\Ngan\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

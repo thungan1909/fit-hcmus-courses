@@ -1,0 +1,90 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Project_Paint</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Icon\add.png" />
+    <None Remove="Icon\circle.png" />
+    <None Remove="Icon\clear.png" />
+    <None Remove="Icon\copyfile.png" />
+    <None Remove="Icon\crop.png" />
+    <None Remove="Icon\cut.png" />
+    <None Remove="Icon\DashStyle_Dash.png" />
+    <None Remove="Icon\DashStyle_DashDot.png" />
+    <None Remove="Icon\DashStyle_DashDotDot.png" />
+    <None Remove="Icon\DashStyle_Dot.png" />
+    <None Remove="Icon\DashStyle_Solid.png" />
+    <None Remove="Icon\ellipse.png" />
+    <None Remove="Icon\eraser.png" />
+    <None Remove="Icon\exit.png" />
+    <None Remove="Icon\line.png" />
+    <None Remove="Icon\newfile.png" />
+    <None Remove="Icon\open.png" />
+    <None Remove="Icon\paint bucket.png" />
+    <None Remove="Icon\paste.png" />
+    <None Remove="Icon\pen.png" />
+    <None Remove="Icon\rectangle.png" />
+    <None Remove="Icon\redo.png" />
+    <None Remove="Icon\rotate.png" />
+    <None Remove="Icon\save-as.png" />
+    <None Remove="Icon\save.png" />
+    <None Remove="Icon\square.png" />
+    <None Remove="Icon\styles.png" />
+    <None Remove="Icon\text.png" />
+    <None Remove="Icon\thickness.png" />
+    <None Remove="Icon\undo.png" />
+    <None Remove="Icon\undo_btn.png" />
+    <None Remove="Icon\zoomIn.png" />
+    <None Remove="Icon\zoomOut.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Fluent.Ribbon" Version="9.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Contract\Contract.csproj" />
+    <ProjectReference Include="..\Line2D\Line2D.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Icon\add.png" />
+    <Resource Include="Icon\circle.png" />
+    <Resource Include="Icon\clear.png" />
+    <Resource Include="Icon\copyfile.png" />
+    <Resource Include="Icon\crop.png" />
+    <Resource Include="Icon\cut.png" />
+    <Resource Include="Icon\DashStyle_DashDotDot.png" />
+    <Resource Include="Icon\DashStyle_Dash.png" />
+    <Resource Include="Icon\DashStyle_DashDot.png" />
+    <Resource Include="Icon\DashStyle_Dot.png" />
+    <Resource Include="Icon\DashStyle_Solid.png" />
+    <Resource Include="Icon\ellipse.png" />
+    <Resource Include="Icon\eraser.png" />
+    <Resource Include="Icon\exit.png" />
+    <Resource Include="Icon\line.png" />
+    <Resource Include="Icon\newfile.png" />
+    <Resource Include="Icon\open.png" />
+    <Resource Include="Icon\paint bucket.png" />
+    <Resource Include="Icon\paste.png" />
+    <Resource Include="Icon\pen.png" />
+    <Resource Include="Icon\rectangle.png" />
+    <Resource Include="Icon\redo.png" />
+    <Resource Include="Icon\rotate.png" />
+    <Resource Include="Icon\save-as.png" />
+    <Resource Include="Icon\save.png" />
+    <Resource Include="Icon\square.png" />
+    <Resource Include="Icon\styles.png" />
+    <Resource Include="Icon\text.png" />
+    <Resource Include="Icon\thickness.png" />
+    <Resource Include="Icon\undo_btn.png" />
+    <Resource Include="Icon\zoomIn.png" />
+    <Resource Include="Icon\zoomOut.png" />
+  </ItemGroup>
+
+</Project>

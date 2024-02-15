@@ -1,0 +1,31 @@
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\bin\Release\net5.0-windows\Project Paint.exe
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\bin\Release\net5.0-windows\Project Paint.deps.json
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\bin\Release\net5.0-windows\Project Paint.runtimeconfig.json
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\bin\Release\net5.0-windows\Project Paint.runtimeconfig.dev.json
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\bin\Release\net5.0-windows\Project Paint.dll
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\bin\Release\net5.0-windows\ref\Project Paint.dll
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\bin\Release\net5.0-windows\Project Paint.pdb
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\bin\Release\net5.0-windows\ControlzEx.dll
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\bin\Release\net5.0-windows\Fluent.dll
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\bin\Release\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\bin\Release\net5.0-windows\System.Text.Json.dll
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\bin\Release\net5.0-windows\Contract.dll
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\bin\Release\net5.0-windows\Line2D.dll
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\bin\Release\net5.0-windows\Contract.pdb
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\bin\Release\net5.0-windows\Line2D.pdb
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\obj\Release\net5.0-windows\MainWindow.baml
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\obj\Release\net5.0-windows\MainWindow.g.cs
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\obj\Release\net5.0-windows\App.g.cs
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\obj\Release\net5.0-windows\Project Paint_MarkupCompile.cache
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\obj\Release\net5.0-windows\Project Paint_MarkupCompile.lref
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\obj\Release\net5.0-windows\App.baml
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\obj\Release\net5.0-windows\Project Paint.g.resources
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\obj\Release\net5.0-windows\Project Paint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\obj\Release\net5.0-windows\Project Paint.AssemblyInfoInputs.cache
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\obj\Release\net5.0-windows\Project Paint.AssemblyInfo.cs
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\obj\Release\net5.0-windows\Project Paint.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\obj\Release\net5.0-windows\Project Paint.dll
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\obj\Release\net5.0-windows\ref\Project Paint.dll
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\obj\Release\net5.0-windows\Project Paint.pdb
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\obj\Release\net5.0-windows\Project Paint.genruntimeconfig.cache
+C:\Users\Ngan\Desktop\Windows_Project-Paint-main-3-Copy\Windows_Project-Paint-main (3) - Copy\Windows_Project-Paint-main\Project Paint\Project Paint\obj\Release\net5.0-windows\Project Paint.csproj.AssemblyReference.cache
