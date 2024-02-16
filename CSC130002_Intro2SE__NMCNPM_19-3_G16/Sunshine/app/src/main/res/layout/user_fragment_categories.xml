@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/outlinedTextField"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/search"
+            android:layout_margin="20dp"
+            app:startIconDrawable="@drawable/ic_baseline_search_24"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/searchbox"
+                android:textSize="20sp"
+                />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:id="@+id/books"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/books"
+            android:textSize="20sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:textStyle="bold"
+            />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:id="@+id/adventure_comic">
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:id="@+id/adventure"
+                    android:text="@string/adventures"
+                    android:paddingTop="15dp"
+                    android:paddingBottom="15dp"
+                    tools:ignore="ButtonStyle" />
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:id="@+id/comics"
+                    android:text="@string/comics"
+                    android:layout_marginStart="10dp"
+                    android:paddingTop="15dp"
+                    android:paddingBottom="15dp"
+                    tools:ignore="ButtonStyle" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/history_horror"
+                android:layout_below="@+id/adventure_comic"
+                android:orientation="horizontal"
+                >
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:id="@+id/history"
+                    android:text="@string/history"
+                    android:paddingTop="15dp"
+                    android:paddingBottom="15dp"
+                    tools:ignore="ButtonStyle" />
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:id="@+id/horror"
+                    android:text="@string/horror"
+                    android:layout_marginStart="10dp"
+                    android:paddingTop="15dp"
+                    android:paddingBottom="15dp"
+                    tools:ignore="ButtonStyle" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/poetry_romantic"
+                android:layout_below="@+id/history_horror"
+                android:orientation="horizontal">
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:id="@+id/poetry"
+                    android:text="@string/poetry"
+                    android:paddingTop="15dp"
+                    android:paddingBottom="15dp"
+                    tools:ignore="ButtonStyle" />
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:id="@+id/romance"
+                    android:text="@string/romance"
+                    android:layout_marginStart="10dp"
+                    android:paddingTop="15dp"
+                    android:paddingBottom="15dp"
+                    tools:ignore="ButtonStyle" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/stories"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/stories"
+            android:textSize="20sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:textStyle="bold"
+            />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:id="@+id/detective_science">
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:id="@+id/detective"
+                    android:text="@string/detective"
+                    android:paddingTop="15dp"
+                    android:paddingBottom="15dp"
+                    tools:ignore="ButtonStyle" />
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:id="@+id/science_fiction"
+                    android:text="@string/science_fiction"
+                    android:layout_marginStart="10dp"
+                    android:paddingTop="15dp"
+                    android:paddingBottom="15dp"
+                    tools:ignore="ButtonStyle" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/religion_autobio"
+                android:layout_below="@+id/detective_science"
+                android:orientation="horizontal"
+                >
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:id="@+id/religion"
+                    android:text="@string/religion"
+                    android:paddingTop="15dp"
+                    android:paddingBottom="15dp"
+                    tools:ignore="ButtonStyle" />
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:id="@+id/autobiographies"
+                    android:text="@string/autobiographies"
+                    android:layout_marginStart="10dp"
+                    android:paddingTop="15dp"
+                    android:paddingBottom="15dp"
+                    tools:ignore="ButtonStyle" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/fanfiction_literary"
+                android:layout_below="@+id/religion_autobio"
+                android:orientation="horizontal">
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:id="@+id/fanfiction"
+                    android:text="@string/fanfiction"
+                    android:paddingTop="15dp"
+                    android:paddingBottom="15dp"
+                    tools:ignore="ButtonStyle" />
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:id="@+id/literary"
+                    android:text="@string/literary_fiction"
+                    android:layout_marginStart="10dp"
+                    android:paddingTop="15dp"
+                    android:paddingBottom="15dp"
+                    tools:ignore="ButtonStyle" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+
+</ScrollView>

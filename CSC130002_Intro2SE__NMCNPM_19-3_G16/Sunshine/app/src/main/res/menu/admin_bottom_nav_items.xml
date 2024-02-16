@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/permission"
+        android:icon="@drawable/ic_baseline_permission_24"
+        android:title="@string/permission"
+        />
+    <item
+        android:id="@+id/report"
+        android:icon="@drawable/ic_baseline_report_24"
+        android:title="@string/report"
+        />
+    <item
+        android:id="@+id/settings_admin"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/settings"
+        />
+</menu>
