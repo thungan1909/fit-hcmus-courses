@@ -1,0 +1,20 @@
+.listWallet__content{
+    margin: 16px;
+    display: flex;
+    width: 350px;
+    flex-wrap: wrap;
+    
+}
+.listWallet__item{
+    color: #000;
+    border-radius: 4px;
+    padding: 4px;
+    margin: 4px;
+    border: 1px solid var(--primary-color);
+
+    
+}
+.listWallet__item:hover {
+    background-color: var(--primary-color);
+    color: var(--white-color);
+}

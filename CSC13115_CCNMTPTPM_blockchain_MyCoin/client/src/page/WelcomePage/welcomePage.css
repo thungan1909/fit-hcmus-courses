@@ -1,0 +1,13 @@
+
+.welcome_description{
+    margin: 8px 0px;
+    text-align: center;
+}
+.btn__wrapper{
+    display: flex;
+    flex-direction: column;
+    margin: 16px 0px;
+}
+.welcome_btn{
+    margin-bottom: 8px;
+}

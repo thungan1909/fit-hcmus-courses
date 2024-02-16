@@ -1,0 +1,18 @@
+
+.wallet__wrapper{
+    min-width: 200px;
+    max-width: 500px;
+    height: max-content;
+    min-height: 300px;
+    border-radius: 16px;
+    border: 1px solid var(--border-color);
+    background-color: var(--white-color);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    margin: 8px;
+}

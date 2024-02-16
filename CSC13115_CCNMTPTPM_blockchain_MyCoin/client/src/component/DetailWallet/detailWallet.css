@@ -1,0 +1,14 @@
+.wallet__properties{
+    margin-top: 32px;
+}
+.wallet__property{
+
+    width: 120px;
+    height: 40px;
+    margin: 8px;
+    padding: 8px;
+    border-radius: 4px;
+    background-color: var(--primary-color);
+    color: var(--white-color);
+
+}
