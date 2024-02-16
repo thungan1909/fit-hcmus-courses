@@ -1,0 +1,15 @@
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\PascalCase\bin\Release\net5.0-windows\PascalCase.deps.json
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\PascalCase\bin\Release\net5.0-windows\PascalCase.dll
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\PascalCase\bin\Release\net5.0-windows\ref\PascalCase.dll
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\PascalCase\bin\Release\net5.0-windows\PascalCase.pdb
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\PascalCase\bin\Release\net5.0-windows\Contract.dll
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\PascalCase\bin\Release\net5.0-windows\Contract.pdb
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\PascalCase\obj\Release\net5.0-windows\PascalCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\PascalCase\obj\Release\net5.0-windows\PascalCase.AssemblyInfoInputs.cache
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\PascalCase\obj\Release\net5.0-windows\PascalCase.AssemblyInfo.cs
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\PascalCase\obj\Release\net5.0-windows\PascalCase.csproj.CoreCompileInputs.cache
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\PascalCase\obj\Release\net5.0-windows\PascalCase.csproj.CopyComplete
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\PascalCase\obj\Release\net5.0-windows\PascalCase.dll
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\PascalCase\obj\Release\net5.0-windows\ref\PascalCase.dll
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\PascalCase\obj\Release\net5.0-windows\PascalCase.pdb
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\PascalCase\obj\Release\net5.0-windows\PascalCase.csproj.AssemblyReference.cache

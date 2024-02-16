@@ -1,0 +1,41 @@
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\bin\Release\net5.0-windows\Replace.deps.json
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\bin\Release\net5.0-windows\Replace.dll
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\bin\Release\net5.0-windows\ref\Replace.dll
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\bin\Release\net5.0-windows\Replace.pdb
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\bin\Release\net5.0-windows\Contract.dll
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\bin\Release\net5.0-windows\Contract.pdb
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\ReplaceWindow.g.cs
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace_MarkupCompile.cache
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace_MarkupCompile.lref
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\ReplaceWindow.baml
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace.g.resources
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace.AssemblyInfoInputs.cache
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace.AssemblyInfo.cs
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace.csproj.CoreCompileInputs.cache
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace.csproj.CopyComplete
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace.dll
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\ref\Replace.dll
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace.pdb
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace.csproj.AssemblyReference.cache
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\BatchRenameDLL\Replace\bin\Release\net5.0-windows\Replace.deps.json
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\BatchRenameDLL\Replace\bin\Release\net5.0-windows\Replace.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\BatchRenameDLL\Replace\bin\Release\net5.0-windows\ref\Replace.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\BatchRenameDLL\Replace\bin\Release\net5.0-windows\Replace.pdb
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\BatchRenameDLL\Replace\bin\Release\net5.0-windows\Contract.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\BatchRenameDLL\Replace\bin\Release\net5.0-windows\Contract.pdb
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace.csproj.AssemblyReference.cache
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\ReplaceWindow.g.cs
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace_MarkupCompile.cache
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace_MarkupCompile.lref
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\ReplaceWindow.baml
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace.g.resources
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace.AssemblyInfoInputs.cache
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace.AssemblyInfo.cs
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace.csproj.CopyComplete
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\ref\Replace.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\Replace.pdb
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\Replace\obj\Release\net5.0-windows\GeneratedInternalTypeHelper.g.cs

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ChangeExtension/1.0.0": {
+        "dependencies": {
+          "IPluginContract": "1.0.0"
+        },
+        "runtime": {
+          "ChangeExtension.dll": {}
+        }
+      },
+      "IPluginContract/1.0.0": {
+        "runtime": {
+          "IPluginContract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChangeExtension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IPluginContract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

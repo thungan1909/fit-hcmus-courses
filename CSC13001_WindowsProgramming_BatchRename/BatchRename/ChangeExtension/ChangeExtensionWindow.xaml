@@ -1,0 +1,17 @@
+﻿<Window x:Class="ChangeExtension.ChangeExtensionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChangeExtension"
+        mc:Ignorable="d"
+        Title="ChangeExtensionWindow" Height="450" Width="800">
+    <Canvas>
+        <Label Canvas.Left="100" Canvas.Top="100" Content="Change Extension: String you want to convert"/>
+        <TextBox Canvas.Left="100" Canvas.Top="130" Height="30" Width="300" Name="edtString"/>
+        <Label Canvas.Left="100" Canvas.Top="175" Content="Input new extension:"/>
+        <TextBox Canvas.Left="100" Canvas.Top="200" Height="30" Width="300" Name="newExtension"/>
+        <Button Canvas.Left="200" Canvas.Top="250" Content="Convert" Name="BtnConvert" Click="BtnConvert_Click"/>
+        <Label Canvas.Left="100" Canvas.Top="275" Content="This is result" Name="txtResult"/>
+    </Canvas>
+</Window>

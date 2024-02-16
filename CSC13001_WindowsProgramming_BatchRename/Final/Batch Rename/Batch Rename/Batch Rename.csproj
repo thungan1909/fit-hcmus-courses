@@ -1,0 +1,64 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Batch_Rename</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Icons\add.png" />
+    <None Remove="Icons\addfile.png" />
+    <None Remove="Icons\addfolder.png" />
+    <None Remove="Icons\addpreset.png" />
+    <None Remove="Icons\clear.png" />
+    <None Remove="Icons\delete.png" />
+    <None Remove="Icons\deletepreset.png" />
+    <None Remove="Icons\preview.png" />
+    <None Remove="Icons\reset.png" />
+    <None Remove="Icons\save.png" />
+    <None Remove="Icons\start.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Fluent.Ribbon" Version="9.0.0" />
+    <PackageReference Include="Microsoft-WindowsAPICodePack-Shell" Version="1.1.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="PropertyChanged.Fody" Version="3.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Contract\Contract.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Icons\add.png" />
+    <Resource Include="Icons\addfile.png" />
+    <Resource Include="Icons\addfolder.png" />
+    <Resource Include="Icons\addpreset.png" />
+    <Resource Include="Icons\clear.png" />
+    <Resource Include="Icons\delete.png" />
+    <Resource Include="Icons\deletepreset.png" />
+    <Resource Include="Icons\preview.png" />
+    <Resource Include="Icons\reset.png" />
+    <Resource Include="Icons\save.png" />
+    <Resource Include="Icons\start.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "IPluginContract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/IPluginContract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IPluginContract.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "IPluginContract/1.0.0": {
+      "type": "project",
+      "path": "../IPluginContract/IPluginContract.csproj",
+      "msbuildProject": "../IPluginContract/IPluginContract.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "IPluginContract >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ngan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ngan\\Downloads\\windows_19_3-Ng-n_Rule-1357\\windows_19_3-Ng-n_Rule-1357\\BatchRename\\RemoveSpaceFromBeginningAndEnding\\RemoveSpaceFromBeginningAndEnding.csproj",
+      "projectName": "RemoveSpaceFromBeginningAndEnding",
+      "projectPath": "C:\\Users\\Ngan\\Downloads\\windows_19_3-Ng-n_Rule-1357\\windows_19_3-Ng-n_Rule-1357\\BatchRename\\RemoveSpaceFromBeginningAndEnding\\RemoveSpaceFromBeginningAndEnding.csproj",
+      "packagesPath": "C:\\Users\\Ngan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ngan\\Downloads\\windows_19_3-Ng-n_Rule-1357\\windows_19_3-Ng-n_Rule-1357\\BatchRename\\RemoveSpaceFromBeginningAndEnding\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ngan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Ngan\\Downloads\\windows_19_3-Ng-n_Rule-1357\\windows_19_3-Ng-n_Rule-1357\\BatchRename\\IPluginContract\\IPluginContract.csproj": {
+              "projectPath": "C:\\Users\\Ngan\\Downloads\\windows_19_3-Ng-n_Rule-1357\\windows_19_3-Ng-n_Rule-1357\\BatchRename\\IPluginContract\\IPluginContract.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

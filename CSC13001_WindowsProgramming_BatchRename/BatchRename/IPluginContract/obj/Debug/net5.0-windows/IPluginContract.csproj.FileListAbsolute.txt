@@ -1,0 +1,24 @@
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\IPluginContract\bin\Debug\net5.0-windows\IPluginContract.deps.json
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\IPluginContract\bin\Debug\net5.0-windows\IPluginContract.dll
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\IPluginContract\bin\Debug\net5.0-windows\ref\IPluginContract.dll
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\IPluginContract\bin\Debug\net5.0-windows\IPluginContract.pdb
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\IPluginContract\obj\Debug\net5.0-windows\IPluginContract.csproj.AssemblyReference.cache
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\IPluginContract\obj\Debug\net5.0-windows\IPluginContract.GeneratedMSBuildEditorConfig.editorconfig
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\IPluginContract\obj\Debug\net5.0-windows\IPluginContract.AssemblyInfoInputs.cache
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\IPluginContract\obj\Debug\net5.0-windows\IPluginContract.AssemblyInfo.cs
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\IPluginContract\obj\Debug\net5.0-windows\IPluginContract.csproj.CoreCompileInputs.cache
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\IPluginContract\obj\Debug\net5.0-windows\IPluginContract.dll
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\IPluginContract\obj\Debug\net5.0-windows\ref\IPluginContract.dll
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\IPluginContract\obj\Debug\net5.0-windows\IPluginContract.pdb
+D:\GitHub\windows_19_3\BatchRename\IPluginContract\bin\Debug\net5.0-windows\IPluginContract.deps.json
+D:\GitHub\windows_19_3\BatchRename\IPluginContract\bin\Debug\net5.0-windows\IPluginContract.dll
+D:\GitHub\windows_19_3\BatchRename\IPluginContract\bin\Debug\net5.0-windows\ref\IPluginContract.dll
+D:\GitHub\windows_19_3\BatchRename\IPluginContract\bin\Debug\net5.0-windows\IPluginContract.pdb
+D:\GitHub\windows_19_3\BatchRename\IPluginContract\obj\Debug\net5.0-windows\IPluginContract.csproj.AssemblyReference.cache
+D:\GitHub\windows_19_3\BatchRename\IPluginContract\obj\Debug\net5.0-windows\IPluginContract.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\windows_19_3\BatchRename\IPluginContract\obj\Debug\net5.0-windows\IPluginContract.AssemblyInfoInputs.cache
+D:\GitHub\windows_19_3\BatchRename\IPluginContract\obj\Debug\net5.0-windows\IPluginContract.AssemblyInfo.cs
+D:\GitHub\windows_19_3\BatchRename\IPluginContract\obj\Debug\net5.0-windows\IPluginContract.csproj.CoreCompileInputs.cache
+D:\GitHub\windows_19_3\BatchRename\IPluginContract\obj\Debug\net5.0-windows\IPluginContract.dll
+D:\GitHub\windows_19_3\BatchRename\IPluginContract\obj\Debug\net5.0-windows\ref\IPluginContract.dll
+D:\GitHub\windows_19_3\BatchRename\IPluginContract\obj\Debug\net5.0-windows\IPluginContract.pdb

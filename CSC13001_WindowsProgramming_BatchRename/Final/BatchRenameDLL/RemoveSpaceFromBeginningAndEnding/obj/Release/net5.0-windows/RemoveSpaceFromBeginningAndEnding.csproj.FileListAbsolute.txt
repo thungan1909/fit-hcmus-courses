@@ -1,0 +1,15 @@
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\RemoveSpaceFromBeginningAndEnding\bin\Release\net5.0-windows\RemoveSpaceFromBeginningAndEnding.deps.json
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\RemoveSpaceFromBeginningAndEnding\bin\Release\net5.0-windows\RemoveSpaceFromBeginningAndEnding.dll
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\RemoveSpaceFromBeginningAndEnding\bin\Release\net5.0-windows\ref\RemoveSpaceFromBeginningAndEnding.dll
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\RemoveSpaceFromBeginningAndEnding\bin\Release\net5.0-windows\RemoveSpaceFromBeginningAndEnding.pdb
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\RemoveSpaceFromBeginningAndEnding\bin\Release\net5.0-windows\Contract.dll
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\RemoveSpaceFromBeginningAndEnding\bin\Release\net5.0-windows\Contract.pdb
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\RemoveSpaceFromBeginningAndEnding\obj\Release\net5.0-windows\RemoveSpaceFromBeginningAndEnding.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\RemoveSpaceFromBeginningAndEnding\obj\Release\net5.0-windows\RemoveSpaceFromBeginningAndEnding.AssemblyInfoInputs.cache
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\RemoveSpaceFromBeginningAndEnding\obj\Release\net5.0-windows\RemoveSpaceFromBeginningAndEnding.AssemblyInfo.cs
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\RemoveSpaceFromBeginningAndEnding\obj\Release\net5.0-windows\RemoveSpaceFromBeginningAndEnding.csproj.CoreCompileInputs.cache
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\RemoveSpaceFromBeginningAndEnding\obj\Release\net5.0-windows\RemoveSpaceFromBeginningAndEnding.csproj.CopyComplete
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\RemoveSpaceFromBeginningAndEnding\obj\Release\net5.0-windows\RemoveSpaceFromBeginningAndEnding.dll
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\RemoveSpaceFromBeginningAndEnding\obj\Release\net5.0-windows\ref\RemoveSpaceFromBeginningAndEnding.dll
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\RemoveSpaceFromBeginningAndEnding\obj\Release\net5.0-windows\RemoveSpaceFromBeginningAndEnding.pdb
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\RemoveSpaceFromBeginningAndEnding\obj\Release\net5.0-windows\RemoveSpaceFromBeginningAndEnding.csproj.AssemblyReference.cache

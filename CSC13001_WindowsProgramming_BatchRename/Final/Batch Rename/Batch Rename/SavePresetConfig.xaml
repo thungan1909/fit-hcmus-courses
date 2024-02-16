@@ -1,0 +1,15 @@
+﻿<Window x:Class="Batch_Rename.SavePresetConfig"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Batch_Rename"
+        mc:Ignorable="d"
+        Title="SavePresetConfig" Height="200" Width="400" WindowStartupLocation="CenterScreen">
+    <Canvas>
+        <Label Content="The name of the preset you want to save:" Canvas.Left="86" Canvas.Top="31"/>
+        <TextBox Name="TbxFilename" Text="{Binding presetName}" Width="200" Canvas.Left="100" Canvas.Top="74"/>
+        <Button Name="BtnOkFilename" Content="OK" Width="50" Canvas.Left="132" Canvas.Top="113" Click="okButton_Click"/>
+        <Button Name="BtnCancelFilename" Content="Cancel" Width="50" Canvas.Left="230" Canvas.Top="113" Click="cancelButton_Click"/>
+    </Canvas>
+</Window>

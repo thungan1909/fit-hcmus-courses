@@ -1,0 +1,51 @@
+﻿<Window x:Class="Replace.ReplaceWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Replace"
+        mc:Ignorable="d"
+        Title="ReplaceWindow" Height="330" Width="400" WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <ControlTemplate x:Key="validationTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Foreground="Red" FontSize="20" Text="!"/>
+                <AdornedElementPlaceholder/>
+            </StackPanel>
+        </ControlTemplate>
+
+        <Style x:Key="textBoxInError" TargetType="{x:Type TextBox}">
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError" Value="True">
+                    <Setter Property="ToolTip" 
+                            Value="{Binding RelativeSource={x:Static RelativeSource.Self},
+                            Path=(Validation.Errors)[0].ErrorContent}"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Canvas>
+        <Label Canvas.Left="67" Canvas.Top="26" Content="Old Characters : "/>
+        <TextBox Width="260" Height="35" Canvas.Left="72" Canvas.Top="58" Text="{Binding Input[OldCharacter]}" Name="input2String"></TextBox>
+
+        <Label Canvas.Left="64" Canvas.Top="98" Content="Replace: "/>
+        <TextBox Width="260" Height="35" Canvas.Left="75" Canvas.Top="132" Name="inputString" Validation.ErrorTemplate="{StaticResource validationTemplate}"
+                 Style="{StaticResource textBoxInError}">
+            <TextBox.Text>
+                <Binding Path="Input[NewCharacter]" UpdateSourceTrigger="PropertyChanged">
+                    <Binding.ValidationRules>
+                        <local:ReplaceRule/>
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox.Text>
+        </TextBox>
+
+        <Button Canvas.Left="79" Canvas.Top="190" Content="OK" Name="BtnOK" Click="BtnOK_Click" Height="30" Width="80"/>
+        <Button Canvas.Left="209" Canvas.Top="190" Content="Cancel" Name="BtnCancel" Click="BtnCancel_Click" Height="30" Width="80"/>
+
+        <TextBlock Canvas.Left="24" Canvas.Top="235" Text="Note: You can use regular expression with /.../g or use ',' to input old characters." 
+                   Width="350" FontSize="12" FontStyle="Italic" Foreground="Red" TextWrapping="WrapWithOverflow"/>
+    </Canvas>
+</Window>

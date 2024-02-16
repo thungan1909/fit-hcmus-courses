@@ -1,0 +1,15 @@
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\LowercaseAndRemoveAllSpaceRule\bin\Release\net5.0-windows\LowercaseAndRemoveAllSpaceRule.deps.json
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\LowercaseAndRemoveAllSpaceRule\bin\Release\net5.0-windows\LowercaseAndRemoveAllSpaceRule.dll
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\LowercaseAndRemoveAllSpaceRule\bin\Release\net5.0-windows\ref\LowercaseAndRemoveAllSpaceRule.dll
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\LowercaseAndRemoveAllSpaceRule\bin\Release\net5.0-windows\LowercaseAndRemoveAllSpaceRule.pdb
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\LowercaseAndRemoveAllSpaceRule\bin\Release\net5.0-windows\Contract.dll
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\LowercaseAndRemoveAllSpaceRule\bin\Release\net5.0-windows\Contract.pdb
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\LowercaseAndRemoveAllSpaceRule\obj\Release\net5.0-windows\LowercaseAndRemoveAllSpaceRule.csproj.AssemblyReference.cache
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\LowercaseAndRemoveAllSpaceRule\obj\Release\net5.0-windows\LowercaseAndRemoveAllSpaceRule.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\LowercaseAndRemoveAllSpaceRule\obj\Release\net5.0-windows\LowercaseAndRemoveAllSpaceRule.AssemblyInfoInputs.cache
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\LowercaseAndRemoveAllSpaceRule\obj\Release\net5.0-windows\LowercaseAndRemoveAllSpaceRule.AssemblyInfo.cs
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\LowercaseAndRemoveAllSpaceRule\obj\Release\net5.0-windows\LowercaseAndRemoveAllSpaceRule.csproj.CoreCompileInputs.cache
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\LowercaseAndRemoveAllSpaceRule\obj\Release\net5.0-windows\LowercaseAndRemoveAllSpaceRule.csproj.CopyComplete
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\LowercaseAndRemoveAllSpaceRule\obj\Release\net5.0-windows\LowercaseAndRemoveAllSpaceRule.dll
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\LowercaseAndRemoveAllSpaceRule\obj\Release\net5.0-windows\ref\LowercaseAndRemoveAllSpaceRule.dll
+D:\GitHub\windows_19_3\Final\BatchRenameDLL\LowercaseAndRemoveAllSpaceRule\obj\Release\net5.0-windows\LowercaseAndRemoveAllSpaceRule.pdb

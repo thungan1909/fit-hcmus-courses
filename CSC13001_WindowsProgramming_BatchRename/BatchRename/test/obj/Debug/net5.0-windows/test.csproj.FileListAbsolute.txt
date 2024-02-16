@@ -1,0 +1,58 @@
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\bin\Debug\net5.0-windows\test.exe
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\bin\Debug\net5.0-windows\test.deps.json
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\bin\Debug\net5.0-windows\test.runtimeconfig.json
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\bin\Debug\net5.0-windows\test.runtimeconfig.dev.json
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\bin\Debug\net5.0-windows\test.dll
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\bin\Debug\net5.0-windows\ref\test.dll
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\bin\Debug\net5.0-windows\test.pdb
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\bin\Debug\net5.0-windows\IPluginContract.dll
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\bin\Debug\net5.0-windows\PascalCase.dll
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\bin\Debug\net5.0-windows\PascalCase.pdb
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\bin\Debug\net5.0-windows\IPluginContract.pdb
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\obj\Debug\net5.0-windows\test.csproj.AssemblyReference.cache
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\obj\Debug\net5.0-windows\App.g.cs
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\obj\Debug\net5.0-windows\test_MarkupCompile.cache
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\obj\Debug\net5.0-windows\test_MarkupCompile.lref
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\obj\Debug\net5.0-windows\MainWindow.baml
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\obj\Debug\net5.0-windows\test.g.resources
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\obj\Debug\net5.0-windows\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\obj\Debug\net5.0-windows\test.AssemblyInfoInputs.cache
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\obj\Debug\net5.0-windows\test.AssemblyInfo.cs
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\obj\Debug\net5.0-windows\test.csproj.CoreCompileInputs.cache
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\obj\Debug\net5.0-windows\test.csproj.CopyComplete
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\obj\Debug\net5.0-windows\test.dll
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\obj\Debug\net5.0-windows\ref\test.dll
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\obj\Debug\net5.0-windows\test.pdb
+D:\University's Lifes\[HK1] 2021 - 2022\LẬP TRÌNH WINDOWS\PROJECT 1\BatchRename\test\obj\Debug\net5.0-windows\test.genruntimeconfig.cache
+D:\GitHub\windows_19_3\BatchRename\test\bin\Debug\net5.0-windows\test.exe
+D:\GitHub\windows_19_3\BatchRename\test\bin\Debug\net5.0-windows\test.deps.json
+D:\GitHub\windows_19_3\BatchRename\test\bin\Debug\net5.0-windows\test.runtimeconfig.json
+D:\GitHub\windows_19_3\BatchRename\test\bin\Debug\net5.0-windows\test.runtimeconfig.dev.json
+D:\GitHub\windows_19_3\BatchRename\test\bin\Debug\net5.0-windows\test.dll
+D:\GitHub\windows_19_3\BatchRename\test\bin\Debug\net5.0-windows\ref\test.dll
+D:\GitHub\windows_19_3\BatchRename\test\bin\Debug\net5.0-windows\test.pdb
+D:\GitHub\windows_19_3\BatchRename\test\bin\Debug\net5.0-windows\IPluginContract.dll
+D:\GitHub\windows_19_3\BatchRename\test\bin\Debug\net5.0-windows\PascalCase.dll
+D:\GitHub\windows_19_3\BatchRename\test\bin\Debug\net5.0-windows\Replace.dll
+D:\GitHub\windows_19_3\BatchRename\test\bin\Debug\net5.0-windows\PascalCase.pdb
+D:\GitHub\windows_19_3\BatchRename\test\bin\Debug\net5.0-windows\Replace.pdb
+D:\GitHub\windows_19_3\BatchRename\test\bin\Debug\net5.0-windows\IPluginContract.pdb
+D:\GitHub\windows_19_3\BatchRename\test\obj\Debug\net5.0-windows\test.csproj.AssemblyReference.cache
+D:\GitHub\windows_19_3\BatchRename\test\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\GitHub\windows_19_3\BatchRename\test\obj\Debug\net5.0-windows\App.g.cs
+D:\GitHub\windows_19_3\BatchRename\test\obj\Debug\net5.0-windows\test_MarkupCompile.cache
+D:\GitHub\windows_19_3\BatchRename\test\obj\Debug\net5.0-windows\test_MarkupCompile.lref
+D:\GitHub\windows_19_3\BatchRename\test\obj\Debug\net5.0-windows\MainWindow.baml
+D:\GitHub\windows_19_3\BatchRename\test\obj\Debug\net5.0-windows\test.g.resources
+D:\GitHub\windows_19_3\BatchRename\test\obj\Debug\net5.0-windows\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\windows_19_3\BatchRename\test\obj\Debug\net5.0-windows\test.AssemblyInfoInputs.cache
+D:\GitHub\windows_19_3\BatchRename\test\obj\Debug\net5.0-windows\test.AssemblyInfo.cs
+D:\GitHub\windows_19_3\BatchRename\test\obj\Debug\net5.0-windows\test.csproj.CoreCompileInputs.cache
+D:\GitHub\windows_19_3\BatchRename\test\obj\Debug\net5.0-windows\test.csproj.CopyComplete
+D:\GitHub\windows_19_3\BatchRename\test\obj\Debug\net5.0-windows\test.dll
+D:\GitHub\windows_19_3\BatchRename\test\obj\Debug\net5.0-windows\ref\test.dll
+D:\GitHub\windows_19_3\BatchRename\test\obj\Debug\net5.0-windows\test.pdb
+D:\GitHub\windows_19_3\BatchRename\test\obj\Debug\net5.0-windows\test.genruntimeconfig.cache
+D:\GitHub\windows_19_3\BatchRename\test\bin\Debug\net5.0-windows\AddSuffix.dll
+D:\GitHub\windows_19_3\BatchRename\test\bin\Debug\net5.0-windows\AddSuffix.pdb

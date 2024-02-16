@@ -1,0 +1,69 @@
+﻿<Window x:Class="AddCounter.AddCounterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AddCounter"
+        mc:Ignorable="d"
+          Title="AddCounterWindow" Height="200" Width="450" WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <ControlTemplate x:Key="validationTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Foreground="Red" FontSize="20" Text="!"/>
+                <AdornedElementPlaceholder/>
+            </StackPanel>
+        </ControlTemplate>
+
+        <Style x:Key="textBoxInError" TargetType="{x:Type TextBox}">
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError" Value="True">
+                    <Setter Property="ToolTip" 
+                            Value="{Binding RelativeSource={x:Static RelativeSource.Self},
+                            Path=(Validation.Errors)[0].ErrorContent}"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Canvas>
+        <Label Canvas.Left="58" Canvas.Top="34" Content="Start Value"/>
+        <TextBox Width="100" Height="26" Canvas.Left="42" Canvas.Top="71" Name="startValue" Validation.ErrorTemplate="{StaticResource validationTemplate}"
+                 Style="{StaticResource textBoxInError}">
+            <TextBox.Text>
+                <Binding Path="Input[StartValue]" UpdateSourceTrigger="PropertyChanged">
+                    <Binding.ValidationRules>
+                        <local:AddCounterRule/>
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox.Text>
+        </TextBox>
+
+        <Label Canvas.Left="206" Canvas.Top="34" Content="Step"/>
+        <TextBox Width="100" Height="26" Canvas.Left="172" Canvas.Top="71" Name="step" Validation.ErrorTemplate="{StaticResource validationTemplate}"
+                 Style="{StaticResource textBoxInError}">
+            <TextBox.Text>
+                <Binding Path="Input[Step]" UpdateSourceTrigger="PropertyChanged">
+                    <Binding.ValidationRules>
+                        <local:AddCounterRule/>
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox.Text>
+        </TextBox>
+
+        <Label Canvas.Left="302" Canvas.Top="34" Content="Number Of Digits"/>
+        <TextBox Width="100" Height="26" Canvas.Left="302" Canvas.Top="71" Name="numberOfDigits" Validation.ErrorTemplate="{StaticResource validationTemplate}"
+                 Style="{StaticResource textBoxInError}">
+            <TextBox.Text>
+                <Binding Path="Input[NumberOfDigits]" UpdateSourceTrigger="PropertyChanged">
+                    <Binding.ValidationRules>
+                        <local:AddCounterRule/>
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox.Text>
+        </TextBox>
+        
+        <Button Canvas.Left="108" Canvas.Top="130" Content="OK" Name="BtnOK" Click="BtnOK_Click" Height="30" Width="80"/>
+        <Button Canvas.Left="238" Canvas.Top="130" Content="Cancel" Name="BtnCancel" Click="BtnCancel_Click" Height="30" Width="80"/>
+    </Canvas>
+</Window>

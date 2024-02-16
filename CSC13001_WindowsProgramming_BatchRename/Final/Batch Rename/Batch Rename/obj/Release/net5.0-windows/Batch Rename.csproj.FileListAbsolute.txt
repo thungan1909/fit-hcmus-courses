@@ -1,0 +1,106 @@
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Batch Rename.exe
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Batch Rename.deps.json
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Batch Rename.runtimeconfig.json
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Batch Rename.runtimeconfig.dev.json
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Batch Rename.dll
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\ref\Batch Rename.dll
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Batch Rename.pdb
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\ControlzEx.dll
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Fluent.dll
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Microsoft.WindowsAPICodePack.dll
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\System.Text.Json.dll
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Contract.dll
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Contract.pdb
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.csproj.AssemblyReference.cache
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\MainWindow.baml
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\MainWindow.g.cs
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\App.g.cs
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename_MarkupCompile.cache
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename_MarkupCompile.lref
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\App.baml
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.g.resources
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.AssemblyInfoInputs.cache
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.AssemblyInfo.cs
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.csproj.CoreCompileInputs.cache
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.csproj.CopyComplete
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.dll
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\ref\Batch Rename.dll
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.pdb
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.genruntimeconfig.cache
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.csproj.Fody.CopyLocal.cache
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Batch Rename.exe
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Batch Rename.deps.json
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Batch Rename.runtimeconfig.json
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Batch Rename.runtimeconfig.dev.json
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Batch Rename.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\ref\Batch Rename.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Batch Rename.pdb
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\ControlzEx.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Fluent.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\System.Text.Json.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Contract.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Contract.pdb
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.csproj.AssemblyReference.cache
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\MainWindow.baml
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\MainWindow.g.cs
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\App.g.cs
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename_MarkupCompile.cache
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename_MarkupCompile.lref
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\App.baml
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.g.resources
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.AssemblyInfoInputs.cache
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.AssemblyInfo.cs
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.csproj.Fody.CopyLocal.cache
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.csproj.CopyComplete
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\ref\Batch Rename.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.pdb
+C:\Users\Ngan\Downloads\windows_19_3-main (4)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.genruntimeconfig.cache
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Newtonsoft.Json.dll
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\SavePresetConfig.g.cs
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\SavePresetConfig.baml
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Batch Rename.exe
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Batch Rename.deps.json
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Batch Rename.runtimeconfig.json
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Batch Rename.runtimeconfig.dev.json
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Batch Rename.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\ref\Batch Rename.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Batch Rename.pdb
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\ControlzEx.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Fluent.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\System.Text.Json.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Contract.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\bin\Release\net5.0-windows\Contract.pdb
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.csproj.AssemblyReference.cache
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\MainWindow.baml
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\MainWindow.g.cs
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\SavePresetConfig.g.cs
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\App.g.cs
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename_MarkupCompile.cache
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename_MarkupCompile.lref
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\App.baml
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\SavePresetConfig.baml
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.g.resources
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.AssemblyInfoInputs.cache
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.AssemblyInfo.cs
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.csproj.Fody.CopyLocal.cache
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\ref\Batch Rename.dll
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.pdb
+C:\Users\Ngan\Downloads\windows_19_3-main (5)\windows_19_3-main\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\Batch Rename.genruntimeconfig.cache
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\PreviewWindow.g.cs
+D:\GitHub\windows_19_3\Final\Batch Rename\Batch Rename\obj\Release\net5.0-windows\PreviewWindow.baml

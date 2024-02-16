@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Add Prefix",
+    "Input": {
+      "Prefix": "CV"
+    },
+    "Type": "File and Folder",
+    "Description": "The string is added to the beginning of the filename or folder name."
+  },
+  {
+    "Name": "Lowercase And Remove Spaces",
+    "Type": "File and Folder",
+    "Input": {},
+    "Description": "Convert all characters to lowercase, and remove all spaces."
+  },
+  {
+    "Name": "Pascal Case",
+    "Type": "File and Folder",
+    "Input": {},
+    "Description": "Convert the first character of each word in the name is capitalized and remove all spaces."
+  }
+]

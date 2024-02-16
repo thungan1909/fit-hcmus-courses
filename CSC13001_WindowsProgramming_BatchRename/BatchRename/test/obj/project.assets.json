@@ -1,0 +1,167 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "AddSuffix/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "IPluginContract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AddSuffix.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AddSuffix.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "IPluginContract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/IPluginContract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IPluginContract.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "PascalCase/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "IPluginContract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PascalCase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PascalCase.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Replace/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "IPluginContract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Replace.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Replace.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "AddSuffix/1.0.0": {
+      "type": "project",
+      "path": "../AddSuffix/AddSuffix.csproj",
+      "msbuildProject": "../AddSuffix/AddSuffix.csproj"
+    },
+    "IPluginContract/1.0.0": {
+      "type": "project",
+      "path": "../IPluginContract/IPluginContract.csproj",
+      "msbuildProject": "../IPluginContract/IPluginContract.csproj"
+    },
+    "PascalCase/1.0.0": {
+      "type": "project",
+      "path": "../PascalCase/PascalCase.csproj",
+      "msbuildProject": "../PascalCase/PascalCase.csproj"
+    },
+    "Replace/1.0.0": {
+      "type": "project",
+      "path": "../Replace/Replace.csproj",
+      "msbuildProject": "../Replace/Replace.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "AddSuffix >= 1.0.0",
+      "PascalCase >= 1.0.0",
+      "Replace >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\GitHub\\windows_19_3\\BatchRename\\test\\test.csproj",
+      "projectName": "test",
+      "projectPath": "D:\\GitHub\\windows_19_3\\BatchRename\\test\\test.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\windows_19_3\\BatchRename\\test\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "D:\\GitHub\\windows_19_3\\BatchRename\\AddSuffix\\AddSuffix.csproj": {
+              "projectPath": "D:\\GitHub\\windows_19_3\\BatchRename\\AddSuffix\\AddSuffix.csproj"
+            },
+            "D:\\GitHub\\windows_19_3\\BatchRename\\PascalCase\\PascalCase.csproj": {
+              "projectPath": "D:\\GitHub\\windows_19_3\\BatchRename\\PascalCase\\PascalCase.csproj"
+            },
+            "D:\\GitHub\\windows_19_3\\BatchRename\\Replace\\Replace.csproj": {
+              "projectPath": "D:\\GitHub\\windows_19_3\\BatchRename\\Replace\\Replace.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

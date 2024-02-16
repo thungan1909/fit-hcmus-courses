@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "test/1.0.0": {
+        "dependencies": {
+          "PascalCase": "1.0.0"
+        },
+        "runtime": {
+          "test.dll": {}
+        }
+      },
+      "IPluginContract/1.0.0": {
+        "runtime": {
+          "IPluginContract.dll": {}
+        }
+      },
+      "PascalCase/1.0.0": {
+        "dependencies": {
+          "IPluginContract": "1.0.0"
+        },
+        "runtime": {
+          "PascalCase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IPluginContract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PascalCase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
